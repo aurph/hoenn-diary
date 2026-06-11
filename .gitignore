@@ -1,0 +1,8 @@
+node_modules/
+data/cache/
+shots/
+*.log
+*.err
+.DS_Store
+icon-src.html
+hoenn-diary.html

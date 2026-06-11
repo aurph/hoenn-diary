@@ -1,0 +1,13 @@
+{
+  "name": "Hoenn Diary",
+  "short_name": "Hoenn Diary",
+  "description": "A vanilla Pokémon Ruby playthrough journal",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FBF3DF",
+  "theme_color": "#0E5E6E",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

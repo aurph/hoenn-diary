@@ -1,0 +1,6006 @@
+{
+ "252": [
+  {
+   "area": "hoenn-route-101-area",
+   "method": "gift",
+   "chance": 100,
+   "min": 5,
+   "max": 5,
+   "conds": []
+  }
+ ],
+ "255": [
+  {
+   "area": "hoenn-route-101-area",
+   "method": "gift",
+   "chance": 100,
+   "min": 5,
+   "max": 5,
+   "conds": []
+  }
+ ],
+ "258": [
+  {
+   "area": "hoenn-route-101-area",
+   "method": "gift",
+   "chance": 100,
+   "min": 5,
+   "max": 5,
+   "conds": []
+  }
+ ],
+ "261": [
+  {
+   "area": "hoenn-route-101-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 2,
+   "max": 3,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-102-area",
+   "method": "walk",
+   "chance": 15,
+   "min": 3,
+   "max": 4,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-103-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 2,
+   "max": 4,
+   "conds": []
+  }
+ ],
+ "263": [
+  {
+   "area": "petalburg-woods-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 5,
+   "max": 6,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-101-area",
+   "method": "walk",
+   "chance": 45,
+   "min": 2,
+   "max": 3,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-102-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 3,
+   "max": 4,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-103-area",
+   "method": "walk",
+   "chance": 60,
+   "min": 2,
+   "max": 4,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-104-area",
+   "method": "walk",
+   "chance": 50,
+   "min": 4,
+   "max": 5,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-110-area",
+   "method": "walk",
+   "chance": 20,
+   "min": 12,
+   "max": 12,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-116-area",
+   "method": "walk",
+   "chance": 28,
+   "min": 6,
+   "max": 8,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-117-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 13,
+   "max": 14,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-118-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 24,
+   "max": 26,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "walk",
+   "chance": 20,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "walk",
+   "chance": 20,
+   "min": 26,
+   "max": 26,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "walk",
+   "chance": 20,
+   "min": 26,
+   "max": 26,
+   "conds": []
+  }
+ ],
+ "264": [
+  {
+   "area": "hoenn-route-118-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 26,
+   "max": 26,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "walk",
+   "chance": 20,
+   "min": 26,
+   "max": 28,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "walk",
+   "chance": 20,
+   "min": 26,
+   "max": 28,
+   "conds": []
+  }
+ ],
+ "265": [
+  {
+   "area": "petalburg-woods-area",
+   "method": "walk",
+   "chance": 25,
+   "min": 5,
+   "max": 6,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-101-area",
+   "method": "walk",
+   "chance": 45,
+   "min": 2,
+   "max": 3,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-102-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 3,
+   "max": 4,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-104-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 4,
+   "max": 5,
+   "conds": []
+  }
+ ],
+ "266": [
+  {
+   "area": "petalburg-woods-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 5,
+   "max": 5,
+   "conds": []
+  }
+ ],
+ "268": [
+  {
+   "area": "petalburg-woods-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 5,
+   "max": 5,
+   "conds": []
+  }
+ ],
+ "273": [
+  {
+   "area": "hoenn-route-102-area",
+   "method": "walk",
+   "chance": 20,
+   "min": 3,
+   "max": 4,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-114-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 15,
+   "max": 16,
+   "conds": []
+  }
+ ],
+ "274": [
+  {
+   "area": "hoenn-route-114-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 16,
+   "max": 18,
+   "conds": []
+  }
+ ],
+ "276": [
+  {
+   "area": "petalburg-woods-area",
+   "method": "walk",
+   "chance": 5,
+   "min": 5,
+   "max": 6,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-104-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 4,
+   "max": 5,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-115-area",
+   "method": "walk",
+   "chance": 40,
+   "min": 23,
+   "max": 25,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-116-area",
+   "method": "walk",
+   "chance": 20,
+   "min": 6,
+   "max": 8,
+   "conds": []
+  }
+ ],
+ "277": [
+  {
+   "area": "hoenn-route-115-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  }
+ ],
+ "278": [
+  {
+   "area": "slateport-city-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "lilycove-city-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "mossdeep-city-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "ever-grande-city-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "mt-pyre-outside",
+   "method": "walk",
+   "chance": 10,
+   "min": 26,
+   "max": 28,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-103-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-103-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 2,
+   "max": 4,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-104-area",
+   "method": "surf",
+   "chance": 95,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-104-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 3,
+   "max": 5,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-105-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-106-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-107-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-108-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-109-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-110-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-110-area",
+   "method": "walk",
+   "chance": 8,
+   "min": 12,
+   "max": 12,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-115-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-115-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 24,
+   "max": 26,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-118-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-118-area",
+   "method": "walk",
+   "chance": 19,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "walk",
+   "chance": 9,
+   "min": 26,
+   "max": 28,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-122-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "walk",
+   "chance": 9,
+   "min": 26,
+   "max": 28,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-124-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-125-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-126-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-127-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-128-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-129-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-130-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-131-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-132-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-133-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-134-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "dewford-town-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "pacifidlog-town-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  }
+ ],
+ "279": [
+  {
+   "area": "slateport-city-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "lilycove-city-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "mossdeep-city-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "ever-grande-city-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-103-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-104-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-105-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-106-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-107-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-108-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-109-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-110-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-115-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-118-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-122-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-124-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-125-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-126-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-127-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-128-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-129-area",
+   "method": "surf",
+   "chance": 4,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-130-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-131-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-132-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-133-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-134-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "dewford-town-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "pacifidlog-town-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  }
+ ],
+ "280": [
+  {
+   "area": "hoenn-route-102-area",
+   "method": "walk",
+   "chance": 4,
+   "min": 4,
+   "max": 4,
+   "conds": []
+  }
+ ],
+ "283": [
+  {
+   "area": "hoenn-route-102-area",
+   "method": "surf",
+   "chance": 1,
+   "min": 20,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-102-area",
+   "method": "walk",
+   "chance": 1,
+   "min": 3,
+   "max": 3,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-111-area",
+   "method": "surf",
+   "chance": 1,
+   "min": 20,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-114-area",
+   "method": "surf",
+   "chance": 1,
+   "min": 20,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-114-area",
+   "method": "walk",
+   "chance": 1,
+   "min": 15,
+   "max": 15,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-117-area",
+   "method": "surf",
+   "chance": 1,
+   "min": 20,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-117-area",
+   "method": "walk",
+   "chance": 1,
+   "min": 13,
+   "max": 13,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "surf",
+   "chance": 1,
+   "min": 20,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "walk",
+   "chance": 1,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  }
+ ],
+ "285": [
+  {
+   "area": "petalburg-woods-area",
+   "method": "walk",
+   "chance": 15,
+   "min": 5,
+   "max": 6,
+   "conds": []
+  }
+ ],
+ "287": [
+  {
+   "area": "petalburg-woods-area",
+   "method": "walk",
+   "chance": 5,
+   "min": 5,
+   "max": 6,
+   "conds": []
+  }
+ ],
+ "63": [
+  {
+   "area": "granite-cave-1f",
+   "method": "walk",
+   "chance": 10,
+   "min": 8,
+   "max": 8,
+   "conds": []
+  },
+  {
+   "area": "granite-cave-b1f",
+   "method": "walk",
+   "chance": 10,
+   "min": 9,
+   "max": 9,
+   "conds": []
+  },
+  {
+   "area": "granite-cave-b2f",
+   "method": "walk",
+   "chance": 10,
+   "min": 10,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "granite-cave-1fsmall-room",
+   "method": "walk",
+   "chance": 10,
+   "min": 8,
+   "max": 8,
+   "conds": []
+  }
+ ],
+ "290": [
+  {
+   "area": "hoenn-route-116-area",
+   "method": "walk",
+   "chance": 20,
+   "min": 6,
+   "max": 7,
+   "conds": []
+  }
+ ],
+ "293": [
+  {
+   "area": "rusturf-tunnel-area",
+   "method": "walk",
+   "chance": 100,
+   "min": 5,
+   "max": 8,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-1f",
+   "method": "walk",
+   "chance": 5,
+   "min": 36,
+   "max": 36,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-116-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 6,
+   "max": 7,
+   "conds": []
+  }
+ ],
+ "294": [
+  {
+   "area": "hoenn-victory-road-1f",
+   "method": "walk",
+   "chance": 10,
+   "min": 40,
+   "max": 40,
+   "conds": []
+  }
+ ],
+ "296": [
+  {
+   "area": "granite-cave-1f",
+   "method": "walk",
+   "chance": 50,
+   "min": 6,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "granite-cave-b1f",
+   "method": "walk",
+   "chance": 10,
+   "min": 10,
+   "max": 11,
+   "conds": []
+  },
+  {
+   "area": "granite-cave-1fsmall-room",
+   "method": "walk",
+   "chance": 50,
+   "min": 6,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-1f",
+   "method": "walk",
+   "chance": 10,
+   "min": 36,
+   "max": 36,
+   "conds": []
+  },
+  {
+   "area": "rustboro-city-area",
+   "method": "npc-trade",
+   "chance": 100,
+   "min": 5,
+   "max": 100,
+   "conds": [
+    "trade-slakoth"
+   ]
+  }
+ ],
+ "297": [
+  {
+   "area": "hoenn-victory-road-1f",
+   "method": "walk",
+   "chance": 25,
+   "min": 38,
+   "max": 40,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b1f",
+   "method": "walk",
+   "chance": 35,
+   "min": 38,
+   "max": 42,
+   "conds": []
+  }
+ ],
+ "118": [
+  {
+   "area": "petalburg-city-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "petalburg-city-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-back",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-back",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-b1f",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-b1f",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-backsmall-room",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-backsmall-room",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b2f",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b2f",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-102-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-102-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-111-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-111-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-114-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-114-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-117-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-117-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "good-rod",
+   "chance": 40,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "super-rod",
+   "chance": 80,
+   "min": 25,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "good-rod",
+   "chance": 40,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "super-rod",
+   "chance": 80,
+   "min": 25,
+   "max": 35,
+   "conds": []
+  }
+ ],
+ "119": [
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "super-rod",
+   "chance": 20,
+   "min": 25,
+   "max": 40,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "super-rod",
+   "chance": 20,
+   "min": 25,
+   "max": 40,
+   "conds": []
+  }
+ ],
+ "129": [
+  {
+   "area": "petalburg-city-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "petalburg-city-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "slateport-city-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "slateport-city-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "lilycove-city-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "lilycove-city-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "mossdeep-city-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "mossdeep-city-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "sootopolis-city-area",
+   "method": "good-rod",
+   "chance": 100,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "sootopolis-city-area",
+   "method": "old-rod",
+   "chance": 100,
+   "min": 5,
+   "max": 15,
+   "conds": []
+  },
+  {
+   "area": "sootopolis-city-area",
+   "method": "super-rod",
+   "chance": 80,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "sootopolis-city-area",
+   "method": "surf",
+   "chance": 100,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "ever-grande-city-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "ever-grande-city-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-back",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-back",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-b1f",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-b1f",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-backsmall-room",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-backsmall-room",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "seafloor-cavern-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "seafloor-cavern-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b2f",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b2f",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-high-tide",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-high-tide",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "abandoned-ship-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "abandoned-ship-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-102-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-102-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-103-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-103-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-104-area",
+   "method": "good-rod",
+   "chance": 100,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-104-area",
+   "method": "old-rod",
+   "chance": 100,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-104-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-105-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-105-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-106-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-106-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-107-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-107-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-108-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-108-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-109-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-109-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-110-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-110-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-111-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-111-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-114-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-114-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-115-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-115-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-117-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-117-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-118-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-118-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-122-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-122-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-124-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-124-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-125-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-125-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-126-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-126-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-127-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-127-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-128-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-128-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-129-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-129-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-130-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-130-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-131-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-131-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-132-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-132-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-133-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-133-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-134-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-134-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "dewford-town-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "dewford-town-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "pacifidlog-town-area",
+   "method": "good-rod",
+   "chance": 60,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "pacifidlog-town-area",
+   "method": "old-rod",
+   "chance": 70,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  }
+ ],
+ "130": [
+  {
+   "area": "sootopolis-city-area",
+   "method": "super-rod",
+   "chance": 20,
+   "min": 5,
+   "max": 45,
+   "conds": []
+  }
+ ],
+ "183": [
+  {
+   "area": "petalburg-city-area",
+   "method": "surf",
+   "chance": 100,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-102-area",
+   "method": "surf",
+   "chance": 99,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-111-area",
+   "method": "surf",
+   "chance": 99,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-114-area",
+   "method": "surf",
+   "chance": 99,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-117-area",
+   "method": "surf",
+   "chance": 99,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-117-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 13,
+   "max": 13,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "surf",
+   "chance": 99,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "walk",
+   "chance": 15,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  }
+ ],
+ "74": [
+  {
+   "area": "granite-cave-1f",
+   "method": "walk",
+   "chance": 10,
+   "min": 6,
+   "max": 9,
+   "conds": []
+  },
+  {
+   "area": "granite-cave-b2f",
+   "method": "rock-smash",
+   "chance": 70,
+   "min": 5,
+   "max": 20,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b1f",
+   "method": "rock-smash",
+   "chance": 30,
+   "min": 30,
+   "max": 40,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-111-area",
+   "method": "rock-smash",
+   "chance": 100,
+   "min": 5,
+   "max": 20,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-114-area",
+   "method": "rock-smash",
+   "chance": 100,
+   "min": 5,
+   "max": 20,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-neacro-bike-area",
+   "method": "rock-smash",
+   "chance": 100,
+   "min": 5,
+   "max": 30,
+   "conds": []
+  }
+ ],
+ "75": [
+  {
+   "area": "hoenn-victory-road-b1f",
+   "method": "rock-smash",
+   "chance": 70,
+   "min": 30,
+   "max": 40,
+   "conds": []
+  }
+ ],
+ "299": [
+  {
+   "area": "granite-cave-b2f",
+   "method": "rock-smash",
+   "chance": 30,
+   "min": 10,
+   "max": 20,
+   "conds": []
+  }
+ ],
+ "300": [
+  {
+   "area": "hoenn-route-116-area",
+   "method": "walk",
+   "chance": 2,
+   "min": 7,
+   "max": 8,
+   "conds": []
+  },
+  {
+   "area": "fortree-city-area",
+   "method": "npc-trade",
+   "chance": 100,
+   "min": 5,
+   "max": 100,
+   "conds": [
+    "trade-pikachu"
+   ]
+  }
+ ],
+ "41": [
+  {
+   "area": "meteor-falls-area",
+   "method": "surf",
+   "chance": 90,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-area",
+   "method": "walk",
+   "chance": 80,
+   "min": 14,
+   "max": 20,
+   "conds": []
+  },
+  {
+   "area": "granite-cave-1f",
+   "method": "walk",
+   "chance": 30,
+   "min": 7,
+   "max": 8,
+   "conds": []
+  },
+  {
+   "area": "granite-cave-b1f",
+   "method": "walk",
+   "chance": 30,
+   "min": 9,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "granite-cave-b2f",
+   "method": "walk",
+   "chance": 30,
+   "min": 10,
+   "max": 11,
+   "conds": []
+  },
+  {
+   "area": "granite-cave-1fsmall-room",
+   "method": "walk",
+   "chance": 30,
+   "min": 7,
+   "max": 8,
+   "conds": []
+  },
+  {
+   "area": "seafloor-cavern-area",
+   "method": "surf",
+   "chance": 35,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "seafloor-cavern-area",
+   "method": "walk",
+   "chance": 90,
+   "min": 28,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-entrance",
+   "method": "walk",
+   "chance": 90,
+   "min": 28,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-1f",
+   "method": "walk",
+   "chance": 60,
+   "min": 30,
+   "max": 34,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-b1f",
+   "method": "walk",
+   "chance": 60,
+   "min": 30,
+   "max": 34,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-b2f",
+   "method": "walk",
+   "chance": 60,
+   "min": 30,
+   "max": 34,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-b3f",
+   "method": "walk",
+   "chance": 60,
+   "min": 30,
+   "max": 34,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-1f",
+   "method": "walk",
+   "chance": 10,
+   "min": 36,
+   "max": 36,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-high-tide",
+   "method": "surf",
+   "chance": 30,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-high-tide",
+   "method": "walk",
+   "chance": 45,
+   "min": 26,
+   "max": 32,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-b1f",
+   "method": "walk",
+   "chance": 45,
+   "min": 26,
+   "max": 32,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-low-tide",
+   "method": "walk",
+   "chance": 45,
+   "min": 26,
+   "max": 32,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-b2f",
+   "method": "walk",
+   "chance": 45,
+   "min": 26,
+   "max": 32,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-b3f",
+   "method": "walk",
+   "chance": 40,
+   "min": 26,
+   "max": 30,
+   "conds": []
+  }
+ ],
+ "42": [
+  {
+   "area": "meteor-falls-back",
+   "method": "surf",
+   "chance": 90,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-back",
+   "method": "walk",
+   "chance": 65,
+   "min": 33,
+   "max": 40,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-b1f",
+   "method": "surf",
+   "chance": 90,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-b1f",
+   "method": "walk",
+   "chance": 65,
+   "min": 33,
+   "max": 40,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-backsmall-room",
+   "method": "surf",
+   "chance": 90,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-backsmall-room",
+   "method": "walk",
+   "chance": 50,
+   "min": 33,
+   "max": 40,
+   "conds": []
+  },
+  {
+   "area": "seafloor-cavern-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "seafloor-cavern-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 33,
+   "max": 36,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-entrance",
+   "method": "walk",
+   "chance": 10,
+   "min": 33,
+   "max": 36,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-1f",
+   "method": "walk",
+   "chance": 10,
+   "min": 33,
+   "max": 36,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-b1f",
+   "method": "walk",
+   "chance": 10,
+   "min": 33,
+   "max": 36,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-b2f",
+   "method": "walk",
+   "chance": 10,
+   "min": 33,
+   "max": 36,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-b3f",
+   "method": "walk",
+   "chance": 10,
+   "min": 33,
+   "max": 36,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-1f",
+   "method": "walk",
+   "chance": 25,
+   "min": 38,
+   "max": 40,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b1f",
+   "method": "walk",
+   "chance": 35,
+   "min": 38,
+   "max": 42,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b2f",
+   "method": "surf",
+   "chance": 100,
+   "min": 25,
+   "max": 40,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b2f",
+   "method": "walk",
+   "chance": 35,
+   "min": 40,
+   "max": 44,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-high-tide",
+   "method": "walk",
+   "chance": 5,
+   "min": 32,
+   "max": 32,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-b1f",
+   "method": "walk",
+   "chance": 5,
+   "min": 32,
+   "max": 32,
+   "conds": []
+  },
+  {
+   "area": "sky-pillar-1f",
+   "method": "walk",
+   "chance": 30,
+   "min": 48,
+   "max": 50,
+   "conds": []
+  },
+  {
+   "area": "sky-pillar-3f",
+   "method": "walk",
+   "chance": 30,
+   "min": 51,
+   "max": 53,
+   "conds": []
+  },
+  {
+   "area": "sky-pillar-5f",
+   "method": "walk",
+   "chance": 30,
+   "min": 54,
+   "max": 56,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-low-tide",
+   "method": "walk",
+   "chance": 5,
+   "min": 32,
+   "max": 32,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-b2f",
+   "method": "walk",
+   "chance": 5,
+   "min": 32,
+   "max": 32,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-b3f",
+   "method": "walk",
+   "chance": 5,
+   "min": 30,
+   "max": 32,
+   "conds": []
+  }
+ ],
+ "72": [
+  {
+   "area": "slateport-city-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "slateport-city-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "slateport-city-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "lilycove-city-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "lilycove-city-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "lilycove-city-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "mossdeep-city-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "mossdeep-city-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "mossdeep-city-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "ever-grande-city-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "ever-grande-city-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "seafloor-cavern-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "seafloor-cavern-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "seafloor-cavern-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-high-tide",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-high-tide",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-high-tide",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "abandoned-ship-area",
+   "method": "good-rod",
+   "chance": 40,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "abandoned-ship-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "abandoned-ship-area",
+   "method": "super-rod",
+   "chance": 80,
+   "min": 25,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "abandoned-ship-area",
+   "method": "surf",
+   "chance": 99,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-103-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-103-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-103-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-105-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-105-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-105-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-106-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-106-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-106-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-107-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-107-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-107-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-108-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-108-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-108-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-109-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-109-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-109-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-110-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-110-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-110-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-115-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-115-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-115-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-118-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-118-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-118-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-122-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-122-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-122-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-124-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-124-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-124-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-125-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-125-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-125-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-126-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-126-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-126-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-127-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-127-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-127-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-128-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-128-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-129-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-129-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-129-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-130-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-130-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-130-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-131-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-131-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-131-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-132-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-132-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-132-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-133-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-133-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-133-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-134-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-134-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-134-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "dewford-town-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "dewford-town-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "dewford-town-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "pacifidlog-town-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "pacifidlog-town-area",
+   "method": "old-rod",
+   "chance": 30,
+   "min": 5,
+   "max": 10,
+   "conds": []
+  },
+  {
+   "area": "pacifidlog-town-area",
+   "method": "surf",
+   "chance": 60,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  }
+ ],
+ "73": [
+  {
+   "area": "abandoned-ship-area",
+   "method": "super-rod",
+   "chance": 20,
+   "min": 20,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "abandoned-ship-area",
+   "method": "surf",
+   "chance": 1,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  }
+ ],
+ "303": [
+  {
+   "area": "granite-cave-b1f",
+   "method": "walk",
+   "chance": 10,
+   "min": 9,
+   "max": 11,
+   "conds": []
+  },
+  {
+   "area": "granite-cave-b2f",
+   "method": "walk",
+   "chance": 20,
+   "min": 10,
+   "max": 12,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-1f",
+   "method": "walk",
+   "chance": 30,
+   "min": 30,
+   "max": 34,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-b1f",
+   "method": "walk",
+   "chance": 30,
+   "min": 30,
+   "max": 34,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-b2f",
+   "method": "walk",
+   "chance": 30,
+   "min": 30,
+   "max": 34,
+   "conds": []
+  },
+  {
+   "area": "cave-of-origin-b3f",
+   "method": "walk",
+   "chance": 30,
+   "min": 30,
+   "max": 34,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b2f",
+   "method": "walk",
+   "chance": 35,
+   "min": 40,
+   "max": 44,
+   "conds": []
+  },
+  {
+   "area": "sky-pillar-1f",
+   "method": "walk",
+   "chance": 30,
+   "min": 48,
+   "max": 50,
+   "conds": []
+  },
+  {
+   "area": "sky-pillar-3f",
+   "method": "walk",
+   "chance": 30,
+   "min": 51,
+   "max": 53,
+   "conds": []
+  },
+  {
+   "area": "sky-pillar-5f",
+   "method": "walk",
+   "chance": 30,
+   "min": 54,
+   "max": 56,
+   "conds": []
+  }
+ ],
+ "304": [
+  {
+   "area": "granite-cave-b1f",
+   "method": "walk",
+   "chance": 40,
+   "min": 9,
+   "max": 11,
+   "conds": []
+  },
+  {
+   "area": "granite-cave-b2f",
+   "method": "walk",
+   "chance": 40,
+   "min": 10,
+   "max": 12,
+   "conds": []
+  },
+  {
+   "area": "granite-cave-1fsmall-room",
+   "method": "walk",
+   "chance": 10,
+   "min": 7,
+   "max": 8,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-1f",
+   "method": "walk",
+   "chance": 5,
+   "min": 36,
+   "max": 36,
+   "conds": []
+  }
+ ],
+ "305": [
+  {
+   "area": "hoenn-victory-road-1f",
+   "method": "walk",
+   "chance": 10,
+   "min": 40,
+   "max": 40,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b1f",
+   "method": "walk",
+   "chance": 15,
+   "min": 40,
+   "max": 42,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b2f",
+   "method": "walk",
+   "chance": 15,
+   "min": 40,
+   "max": 44,
+   "conds": []
+  }
+ ],
+ "66": [
+  {
+   "area": "jagged-pass-area",
+   "method": "walk",
+   "chance": 25,
+   "min": 18,
+   "max": 20,
+   "conds": []
+  },
+  {
+   "area": "fiery-path-area",
+   "method": "walk",
+   "chance": 15,
+   "min": 15,
+   "max": 16,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-112-area",
+   "method": "walk",
+   "chance": 25,
+   "min": 14,
+   "max": 16,
+   "conds": []
+  }
+ ],
+ "307": [
+  {
+   "area": "mt-pyre-outside",
+   "method": "walk",
+   "chance": 30,
+   "min": 27,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b1f",
+   "method": "walk",
+   "chance": 5,
+   "min": 38,
+   "max": 38,
+   "conds": []
+  }
+ ],
+ "308": [
+  {
+   "area": "hoenn-victory-road-b1f",
+   "method": "walk",
+   "chance": 10,
+   "min": 40,
+   "max": 40,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b2f",
+   "method": "walk",
+   "chance": 15,
+   "min": 40,
+   "max": 44,
+   "conds": []
+  }
+ ],
+ "309": [
+  {
+   "area": "hoenn-route-110-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 12,
+   "max": 13,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-118-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 24,
+   "max": 26,
+   "conds": []
+  }
+ ],
+ "310": [
+  {
+   "area": "hoenn-route-118-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 26,
+   "max": 26,
+   "conds": []
+  }
+ ],
+ "311": [
+  {
+   "area": "hoenn-route-110-area",
+   "method": "walk",
+   "chance": 2,
+   "min": 12,
+   "max": 13,
+   "conds": []
+  }
+ ],
+ "312": [
+  {
+   "area": "hoenn-route-110-area",
+   "method": "walk",
+   "chance": 15,
+   "min": 13,
+   "max": 13,
+   "conds": []
+  }
+ ],
+ "81": [
+  {
+   "area": "new-mauville-entrance",
+   "method": "walk",
+   "chance": 50,
+   "min": 22,
+   "max": 26,
+   "conds": []
+  },
+  {
+   "area": "new-mauville-area",
+   "method": "walk",
+   "chance": 49,
+   "min": 22,
+   "max": 26,
+   "conds": []
+  }
+ ],
+ "82": [
+  {
+   "area": "new-mauville-area",
+   "method": "walk",
+   "chance": 1,
+   "min": 26,
+   "max": 26,
+   "conds": []
+  }
+ ],
+ "100": [
+  {
+   "area": "new-mauville-entrance",
+   "method": "walk",
+   "chance": 50,
+   "min": 22,
+   "max": 26,
+   "conds": []
+  },
+  {
+   "area": "new-mauville-area",
+   "method": "walk",
+   "chance": 49,
+   "min": 22,
+   "max": 26,
+   "conds": []
+  },
+  {
+   "area": "new-mauville-area",
+   "method": "only-one",
+   "chance": 100,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  }
+ ],
+ "101": [
+  {
+   "area": "new-mauville-area",
+   "method": "walk",
+   "chance": 1,
+   "min": 26,
+   "max": 26,
+   "conds": []
+  },
+  {
+   "area": "new-mauville-area",
+   "method": "only-one",
+   "chance": 100,
+   "min": 30,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "team-magma-hideout-area",
+   "method": "only-one",
+   "chance": 100,
+   "min": 30,
+   "max": 30,
+   "conds": []
+  }
+ ],
+ "313": [
+  {
+   "area": "hoenn-route-117-area",
+   "method": "walk",
+   "chance": 1,
+   "min": 13,
+   "max": 13,
+   "conds": []
+  }
+ ],
+ "314": [
+  {
+   "area": "hoenn-route-117-area",
+   "method": "walk",
+   "chance": 18,
+   "min": 13,
+   "max": 14,
+   "conds": []
+  }
+ ],
+ "43": [
+  {
+   "area": "hoenn-route-110-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 13,
+   "max": 13,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-117-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 13,
+   "max": 13,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 24,
+   "max": 27,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "walk",
+   "chance": 25,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "walk",
+   "chance": 15,
+   "min": 26,
+   "max": 28,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "walk",
+   "chance": 15,
+   "min": 26,
+   "max": 28,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 27,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-neacro-bike-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 27,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "walk",
+   "chance": 40,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-se",
+   "method": "walk",
+   "chance": 40,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  }
+ ],
+ "44": [
+  {
+   "area": "hoenn-route-121-area",
+   "method": "walk",
+   "chance": 5,
+   "min": 28,
+   "max": 28,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "walk",
+   "chance": 5,
+   "min": 28,
+   "max": 28,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "walk",
+   "chance": 15,
+   "min": 29,
+   "max": 31,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-neacro-bike-area",
+   "method": "walk",
+   "chance": 15,
+   "min": 29,
+   "max": 31,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "walk",
+   "chance": 5,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-se",
+   "method": "walk",
+   "chance": 5,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  }
+ ],
+ "84": [
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "walk",
+   "chance": 15,
+   "min": 27,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "walk",
+   "chance": 10,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-se",
+   "method": "walk",
+   "chance": 10,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  }
+ ],
+ "85": [
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "walk",
+   "chance": 5,
+   "min": 29,
+   "max": 31,
+   "conds": []
+  }
+ ],
+ "315": [
+  {
+   "area": "hoenn-route-117-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 13,
+   "max": 14,
+   "conds": []
+  }
+ ],
+ "316": [
+  {
+   "area": "hoenn-route-110-area",
+   "method": "walk",
+   "chance": 15,
+   "min": 12,
+   "max": 13,
+   "conds": []
+  }
+ ],
+ "318": [
+  {
+   "area": "hoenn-route-118-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-118-area",
+   "method": "super-rod",
+   "chance": 60,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  }
+ ],
+ "319": [
+  {
+   "area": "mossdeep-city-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-103-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-118-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-122-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-124-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-125-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-126-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-127-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-129-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-130-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-131-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-132-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-133-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-134-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "pacifidlog-town-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  }
+ ],
+ "320": [
+  {
+   "area": "slateport-city-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "slateport-city-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "lilycove-city-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "lilycove-city-area",
+   "method": "super-rod",
+   "chance": 85,
+   "min": 25,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "mossdeep-city-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "mossdeep-city-area",
+   "method": "super-rod",
+   "chance": 60,
+   "min": 25,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "ever-grande-city-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "ever-grande-city-area",
+   "method": "super-rod",
+   "chance": 45,
+   "min": 30,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "seafloor-cavern-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "seafloor-cavern-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-high-tide",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-high-tide",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-103-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-103-area",
+   "method": "super-rod",
+   "chance": 60,
+   "min": 25,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-105-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-105-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-106-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-106-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-107-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-107-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-108-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-108-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-109-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-109-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-110-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-110-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-115-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-115-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-122-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-122-area",
+   "method": "super-rod",
+   "chance": 60,
+   "min": 25,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-124-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-124-area",
+   "method": "super-rod",
+   "chance": 60,
+   "min": 25,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-125-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-125-area",
+   "method": "super-rod",
+   "chance": 60,
+   "min": 25,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-126-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-126-area",
+   "method": "super-rod",
+   "chance": 60,
+   "min": 25,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-127-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-127-area",
+   "method": "super-rod",
+   "chance": 60,
+   "min": 25,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-128-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-128-area",
+   "method": "super-rod",
+   "chance": 45,
+   "min": 30,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-129-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-129-area",
+   "method": "super-rod",
+   "chance": 60,
+   "min": 25,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-130-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-130-area",
+   "method": "super-rod",
+   "chance": 60,
+   "min": 25,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-131-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-131-area",
+   "method": "super-rod",
+   "chance": 60,
+   "min": 25,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-132-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-132-area",
+   "method": "super-rod",
+   "chance": 45,
+   "min": 30,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-133-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-133-area",
+   "method": "super-rod",
+   "chance": 45,
+   "min": 30,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-134-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-134-area",
+   "method": "super-rod",
+   "chance": 45,
+   "min": 30,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "dewford-town-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "dewford-town-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "pacifidlog-town-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "pacifidlog-town-area",
+   "method": "super-rod",
+   "chance": 60,
+   "min": 25,
+   "max": 45,
+   "conds": []
+  }
+ ],
+ "321": [
+  {
+   "area": "hoenn-route-129-area",
+   "method": "surf",
+   "chance": 1,
+   "min": 35,
+   "max": 40,
+   "conds": []
+  }
+ ],
+ "322": [
+  {
+   "area": "jagged-pass-area",
+   "method": "walk",
+   "chance": 55,
+   "min": 18,
+   "max": 20,
+   "conds": []
+  },
+  {
+   "area": "fiery-path-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 15,
+   "max": 16,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-112-area",
+   "method": "walk",
+   "chance": 75,
+   "min": 14,
+   "max": 16,
+   "conds": []
+  }
+ ],
+ "218": [
+  {
+   "area": "fiery-path-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 15,
+   "max": 15,
+   "conds": []
+  }
+ ],
+ "324": [
+  {
+   "area": "fiery-path-area",
+   "method": "walk",
+   "chance": 18,
+   "min": 14,
+   "max": 16,
+   "conds": []
+  }
+ ],
+ "88": [
+  {
+   "area": "fiery-path-area",
+   "method": "walk",
+   "chance": 2,
+   "min": 14,
+   "max": 14,
+   "conds": []
+  }
+ ],
+ "109": [
+  {
+   "area": "fiery-path-area",
+   "method": "walk",
+   "chance": 25,
+   "min": 15,
+   "max": 16,
+   "conds": []
+  }
+ ],
+ "325": [
+  {
+   "area": "jagged-pass-area",
+   "method": "walk",
+   "chance": 20,
+   "min": 18,
+   "max": 20,
+   "conds": []
+  }
+ ],
+ "27": [
+  {
+   "area": "hoenn-route-111-area",
+   "method": "walk",
+   "chance": 35,
+   "min": 19,
+   "max": 21,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-113-area",
+   "method": "walk",
+   "chance": 25,
+   "min": 14,
+   "max": 16,
+   "conds": []
+  }
+ ],
+ "327": [
+  {
+   "area": "hoenn-route-113-area",
+   "method": "walk",
+   "chance": 70,
+   "min": 14,
+   "max": 16,
+   "conds": []
+  }
+ ],
+ "227": [
+  {
+   "area": "hoenn-route-113-area",
+   "method": "walk",
+   "chance": 5,
+   "min": 16,
+   "max": 16,
+   "conds": []
+  }
+ ],
+ "328": [
+  {
+   "area": "hoenn-route-111-area",
+   "method": "walk",
+   "chance": 35,
+   "min": 19,
+   "max": 21,
+   "conds": []
+  }
+ ],
+ "331": [
+  {
+   "area": "hoenn-route-111-area",
+   "method": "walk",
+   "chance": 20,
+   "min": 19,
+   "max": 21,
+   "conds": []
+  }
+ ],
+ "333": [
+  {
+   "area": "hoenn-route-114-area",
+   "method": "walk",
+   "chance": 40,
+   "min": 15,
+   "max": 17,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-115-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 23,
+   "max": 25,
+   "conds": []
+  }
+ ],
+ "334": [
+  {
+   "area": "sky-pillar-5f",
+   "method": "walk",
+   "chance": 6,
+   "min": 54,
+   "max": 60,
+   "conds": []
+  }
+ ],
+ "335": [
+  {
+   "area": "hoenn-route-114-area",
+   "method": "walk",
+   "chance": 19,
+   "min": 15,
+   "max": 17,
+   "conds": []
+  }
+ ],
+ "338": [
+  {
+   "area": "meteor-falls-area",
+   "method": "surf",
+   "chance": 10,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-area",
+   "method": "walk",
+   "chance": 20,
+   "min": 14,
+   "max": 18,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-back",
+   "method": "surf",
+   "chance": 10,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-back",
+   "method": "walk",
+   "chance": 35,
+   "min": 33,
+   "max": 39,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-b1f",
+   "method": "surf",
+   "chance": 10,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-b1f",
+   "method": "walk",
+   "chance": 35,
+   "min": 33,
+   "max": 39,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-backsmall-room",
+   "method": "surf",
+   "chance": 10,
+   "min": 5,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-backsmall-room",
+   "method": "walk",
+   "chance": 25,
+   "min": 35,
+   "max": 39,
+   "conds": []
+  }
+ ],
+ "339": [
+  {
+   "area": "meteor-falls-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-back",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-back",
+   "method": "super-rod",
+   "chance": 80,
+   "min": 25,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-b1f",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-b1f",
+   "method": "super-rod",
+   "chance": 80,
+   "min": 25,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-backsmall-room",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-backsmall-room",
+   "method": "super-rod",
+   "chance": 80,
+   "min": 25,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b2f",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b2f",
+   "method": "super-rod",
+   "chance": 80,
+   "min": 25,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-111-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-111-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-114-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-114-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  }
+ ],
+ "340": [
+  {
+   "area": "meteor-falls-back",
+   "method": "super-rod",
+   "chance": 20,
+   "min": 30,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-b1f",
+   "method": "super-rod",
+   "chance": 20,
+   "min": 30,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "meteor-falls-backsmall-room",
+   "method": "super-rod",
+   "chance": 20,
+   "min": 30,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-victory-road-b2f",
+   "method": "super-rod",
+   "chance": 20,
+   "min": 30,
+   "max": 45,
+   "conds": []
+  }
+ ],
+ "341": [
+  {
+   "area": "petalburg-city-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "petalburg-city-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-102-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-102-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-117-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-117-area",
+   "method": "super-rod",
+   "chance": 100,
+   "min": 20,
+   "max": 45,
+   "conds": []
+  }
+ ],
+ "343": [
+  {
+   "area": "hoenn-route-111-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 20,
+   "max": 22,
+   "conds": []
+  }
+ ],
+ "344": [
+  {
+   "area": "sky-pillar-1f",
+   "method": "walk",
+   "chance": 25,
+   "min": 47,
+   "max": 50,
+   "conds": []
+  },
+  {
+   "area": "sky-pillar-3f",
+   "method": "walk",
+   "chance": 25,
+   "min": 50,
+   "max": 53,
+   "conds": []
+  },
+  {
+   "area": "sky-pillar-5f",
+   "method": "walk",
+   "chance": 19,
+   "min": 54,
+   "max": 56,
+   "conds": []
+  }
+ ],
+ "345": [
+  {
+   "area": "rustboro-city-area",
+   "method": "gift",
+   "chance": 100,
+   "min": 20,
+   "max": 20,
+   "conds": [
+    "item-root-fossil"
+   ]
+  }
+ ],
+ "347": [
+  {
+   "area": "rustboro-city-area",
+   "method": "gift",
+   "chance": 100,
+   "min": 20,
+   "max": 20,
+   "conds": [
+    "item-claw-fossil"
+   ]
+  }
+ ],
+ "39": [
+  {
+   "area": "hoenn-route-115-area",
+   "method": "walk",
+   "chance": 10,
+   "min": 24,
+   "max": 25,
+   "conds": []
+  }
+ ],
+ "349": [
+  {
+   "area": "hoenn-route-119-area",
+   "method": "feebas-tile-fishing",
+   "chance": 50,
+   "min": 20,
+   "max": 25,
+   "conds": []
+  }
+ ],
+ "351": [
+  {
+   "area": "hoenn-route-119-weather-institute",
+   "method": "gift",
+   "chance": 100,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  }
+ ],
+ "120": [
+  {
+   "area": "lilycove-city-area",
+   "method": "super-rod",
+   "chance": 15,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  }
+ ],
+ "352": [
+  {
+   "area": "hoenn-route-118-area",
+   "method": "walk",
+   "chance": 1,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "walk",
+   "chance": 1,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-119-area",
+   "method": "devon-scope",
+   "chance": 100,
+   "min": 30,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "walk",
+   "chance": 1,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-120-area",
+   "method": "devon-scope",
+   "chance": 100,
+   "min": 30,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "walk",
+   "chance": 1,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "walk",
+   "chance": 1,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  }
+ ],
+ "353": [
+  {
+   "area": "mt-pyre-4f",
+   "method": "walk",
+   "chance": 10,
+   "min": 25,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "mt-pyre-5f",
+   "method": "walk",
+   "chance": 10,
+   "min": 25,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "mt-pyre-6f",
+   "method": "walk",
+   "chance": 10,
+   "min": 25,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "mt-pyre-summit",
+   "method": "walk",
+   "chance": 13,
+   "min": 26,
+   "max": 30,
+   "conds": []
+  }
+ ],
+ "355": [
+  {
+   "area": "mt-pyre-1f",
+   "method": "walk",
+   "chance": 100,
+   "min": 22,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "mt-pyre-2f",
+   "method": "walk",
+   "chance": 100,
+   "min": 22,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "mt-pyre-3f",
+   "method": "walk",
+   "chance": 100,
+   "min": 22,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "mt-pyre-4f",
+   "method": "walk",
+   "chance": 90,
+   "min": 22,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "mt-pyre-5f",
+   "method": "walk",
+   "chance": 90,
+   "min": 22,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "mt-pyre-6f",
+   "method": "walk",
+   "chance": 90,
+   "min": 22,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "mt-pyre-outside",
+   "method": "walk",
+   "chance": 40,
+   "min": 27,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "mt-pyre-summit",
+   "method": "walk",
+   "chance": 85,
+   "min": 24,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-121-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 26,
+   "max": 28,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-123-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 26,
+   "max": 28,
+   "conds": []
+  }
+ ],
+ "356": [
+  {
+   "area": "sky-pillar-1f",
+   "method": "walk",
+   "chance": 15,
+   "min": 48,
+   "max": 50,
+   "conds": []
+  },
+  {
+   "area": "sky-pillar-3f",
+   "method": "walk",
+   "chance": 15,
+   "min": 51,
+   "max": 53,
+   "conds": []
+  },
+  {
+   "area": "sky-pillar-5f",
+   "method": "walk",
+   "chance": 15,
+   "min": 54,
+   "max": 56,
+   "conds": []
+  }
+ ],
+ "357": [
+  {
+   "area": "hoenn-route-119-area",
+   "method": "walk",
+   "chance": 9,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  }
+ ],
+ "358": [
+  {
+   "area": "mt-pyre-summit",
+   "method": "walk",
+   "chance": 2,
+   "min": 28,
+   "max": 28,
+   "conds": []
+  }
+ ],
+ "359": [
+  {
+   "area": "hoenn-route-120-area",
+   "method": "walk",
+   "chance": 8,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  }
+ ],
+ "37": [
+  {
+   "area": "mt-pyre-outside",
+   "method": "walk",
+   "chance": 20,
+   "min": 25,
+   "max": 29,
+   "conds": []
+  }
+ ],
+ "25": [
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "walk",
+   "chance": 5,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-se",
+   "method": "walk",
+   "chance": 5,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  },
+  {
+   "area": "hoenn-pokecenter-area",
+   "method": "colosseum-bonus-disc-jpn",
+   "chance": 100,
+   "min": 10,
+   "max": 10,
+   "conds": []
+  }
+ ],
+ "54": [
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "surf",
+   "chance": 95,
+   "min": 20,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "surf",
+   "chance": 100,
+   "min": 20,
+   "max": 35,
+   "conds": []
+  }
+ ],
+ "55": [
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "surf",
+   "chance": 5,
+   "min": 25,
+   "max": 40,
+   "conds": []
+  }
+ ],
+ "360": [
+  {
+   "area": "hoenn-route-130-area",
+   "method": "walk",
+   "chance": 100,
+   "min": 5,
+   "max": 50,
+   "conds": []
+  },
+  {
+   "area": "lavaridge-town-area",
+   "method": "gift-egg",
+   "chance": 100,
+   "min": 5,
+   "max": 5,
+   "conds": []
+  },
+  {
+   "area": "mirage-island-area",
+   "method": "walk",
+   "chance": 100,
+   "min": 5,
+   "max": 50,
+   "conds": []
+  }
+ ],
+ "202": [
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "walk",
+   "chance": 10,
+   "min": 27,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-se",
+   "method": "walk",
+   "chance": 10,
+   "min": 27,
+   "max": 29,
+   "conds": []
+  }
+ ],
+ "177": [
+  {
+   "area": "hoenn-safari-zone-neacro-bike-area",
+   "method": "walk",
+   "chance": 15,
+   "min": 27,
+   "max": 29,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "walk",
+   "chance": 10,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-se",
+   "method": "walk",
+   "chance": 10,
+   "min": 25,
+   "max": 25,
+   "conds": []
+  }
+ ],
+ "178": [
+  {
+   "area": "hoenn-safari-zone-neacro-bike-area",
+   "method": "walk",
+   "chance": 5,
+   "min": 29,
+   "max": 31,
+   "conds": []
+  }
+ ],
+ "203": [
+  {
+   "area": "hoenn-safari-zone-sw",
+   "method": "walk",
+   "chance": 20,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  },
+  {
+   "area": "hoenn-safari-zone-se",
+   "method": "walk",
+   "chance": 20,
+   "min": 25,
+   "max": 27,
+   "conds": []
+  }
+ ],
+ "231": [
+  {
+   "area": "hoenn-safari-zone-neacro-bike-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 27,
+   "max": 29,
+   "conds": []
+  }
+ ],
+ "127": [
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "walk",
+   "chance": 5,
+   "min": 27,
+   "max": 29,
+   "conds": []
+  }
+ ],
+ "214": [
+  {
+   "area": "hoenn-safari-zone-neacro-bike-area",
+   "method": "walk",
+   "chance": 5,
+   "min": 27,
+   "max": 29,
+   "conds": []
+  }
+ ],
+ "111": [
+  {
+   "area": "hoenn-safari-zone-nwmach-bike-area",
+   "method": "walk",
+   "chance": 30,
+   "min": 27,
+   "max": 29,
+   "conds": []
+  }
+ ],
+ "361": [
+  {
+   "area": "shoal-cave-b3f",
+   "method": "walk",
+   "chance": 10,
+   "min": 26,
+   "max": 30,
+   "conds": []
+  }
+ ],
+ "363": [
+  {
+   "area": "shoal-cave-high-tide",
+   "method": "surf",
+   "chance": 10,
+   "min": 25,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-high-tide",
+   "method": "walk",
+   "chance": 50,
+   "min": 26,
+   "max": 32,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-b1f",
+   "method": "walk",
+   "chance": 50,
+   "min": 26,
+   "max": 32,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-low-tide",
+   "method": "walk",
+   "chance": 50,
+   "min": 26,
+   "max": 32,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-b2f",
+   "method": "walk",
+   "chance": 50,
+   "min": 26,
+   "max": 32,
+   "conds": []
+  },
+  {
+   "area": "shoal-cave-b3f",
+   "method": "walk",
+   "chance": 45,
+   "min": 26,
+   "max": 32,
+   "conds": []
+  }
+ ],
+ "366": [
+  {
+   "area": "hoenn-route-124-underwater",
+   "method": "seaweed",
+   "chance": 65,
+   "min": 20,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-126-underwater",
+   "method": "seaweed",
+   "chance": 65,
+   "min": 20,
+   "max": 35,
+   "conds": []
+  }
+ ],
+ "369": [
+  {
+   "area": "hoenn-route-124-underwater",
+   "method": "seaweed",
+   "chance": 5,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-126-underwater",
+   "method": "seaweed",
+   "chance": 5,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  }
+ ],
+ "222": [
+  {
+   "area": "ever-grande-city-area",
+   "method": "super-rod",
+   "chance": 15,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-128-area",
+   "method": "super-rod",
+   "chance": 15,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "pacifidlog-town-area",
+   "method": "npc-trade",
+   "chance": 100,
+   "min": 21,
+   "max": 100,
+   "conds": [
+    "trade-bellossom"
+   ]
+  }
+ ],
+ "170": [
+  {
+   "area": "hoenn-route-124-underwater",
+   "method": "seaweed",
+   "chance": 30,
+   "min": 20,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-126-underwater",
+   "method": "seaweed",
+   "chance": 30,
+   "min": 20,
+   "max": 30,
+   "conds": []
+  }
+ ],
+ "370": [
+  {
+   "area": "ever-grande-city-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "ever-grande-city-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-128-area",
+   "method": "good-rod",
+   "chance": 20,
+   "min": 10,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-128-area",
+   "method": "super-rod",
+   "chance": 40,
+   "min": 30,
+   "max": 35,
+   "conds": []
+  }
+ ],
+ "116": [
+  {
+   "area": "hoenn-route-132-area",
+   "method": "super-rod",
+   "chance": 15,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-133-area",
+   "method": "super-rod",
+   "chance": 15,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  },
+  {
+   "area": "hoenn-route-134-area",
+   "method": "super-rod",
+   "chance": 15,
+   "min": 25,
+   "max": 30,
+   "conds": []
+  }
+ ],
+ "371": [
+  {
+   "area": "meteor-falls-backsmall-room",
+   "method": "walk",
+   "chance": 25,
+   "min": 25,
+   "max": 35,
+   "conds": []
+  }
+ ],
+ "374": [
+  {
+   "area": "mossdeep-city-stevens-house",
+   "method": "gift",
+   "chance": 100,
+   "min": 5,
+   "max": 5,
+   "conds": []
+  }
+ ],
+ "377": [
+  {
+   "area": "desert-ruins-area",
+   "method": "only-one",
+   "chance": 100,
+   "min": 40,
+   "max": 40,
+   "conds": []
+  }
+ ],
+ "378": [
+  {
+   "area": "island-cave-area",
+   "method": "only-one",
+   "chance": 100,
+   "min": 40,
+   "max": 40,
+   "conds": []
+  }
+ ],
+ "379": [
+  {
+   "area": "ancient-tomb-area",
+   "method": "only-one",
+   "chance": 100,
+   "min": 40,
+   "max": 40,
+   "conds": []
+  }
+ ],
+ "380": [
+  {
+   "area": "southern-island-area",
+   "method": "only-one",
+   "chance": 100,
+   "min": 50,
+   "max": 50,
+   "conds": []
+  }
+ ],
+ "381": [
+  {
+   "area": "roaming-hoenn-area",
+   "method": "roaming-grass",
+   "chance": 25,
+   "min": 40,
+   "max": 40,
+   "conds": []
+  },
+  {
+   "area": "roaming-hoenn-area",
+   "method": "roaming-water",
+   "chance": 25,
+   "min": 40,
+   "max": 40,
+   "conds": [
+    "story-progress-hall-of-fame"
+   ]
+  }
+ ],
+ "383": [
+  {
+   "area": "cave-of-origin-b4f",
+   "method": "only-one",
+   "chance": 100,
+   "min": 45,
+   "max": 45,
+   "conds": []
+  }
+ ],
+ "384": [
+  {
+   "area": "sky-pillar-apex",
+   "method": "only-one",
+   "chance": 100,
+   "min": 70,
+   "max": 70,
+   "conds": []
+  }
+ ],
+ "385": [
+  {
+   "area": "hoenn-pokecenter-area",
+   "method": "colosseum-bonus-disc-us",
+   "chance": 100,
+   "min": 5,
+   "max": 5,
+   "conds": []
+  },
+  {
+   "area": "hoenn-pokecenter-area",
+   "method": "pokemon-channel-pal",
+   "chance": 100,
+   "min": 5,
+   "max": 5,
+   "conds": []
+  }
+ ]
+}

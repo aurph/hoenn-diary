@@ -1,0 +1,5850 @@
+[
+ {
+  "h": 1,
+  "n": 252,
+  "name": "Treecko",
+  "slug": "treecko",
+  "id": "treecko",
+  "types": [
+   "Grass"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 45,
+   "def": 35,
+   "spa": 65,
+   "spd": 55,
+   "spe": 70
+  },
+  "abilities": [
+   "Overgrow"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Grovyle"
+  ]
+ },
+ {
+  "h": 2,
+  "n": 253,
+  "name": "Grovyle",
+  "slug": "grovyle",
+  "id": "grovyle",
+  "types": [
+   "Grass"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 65,
+   "def": 45,
+   "spa": 85,
+   "spd": 65,
+   "spe": 95
+  },
+  "abilities": [
+   "Overgrow"
+  ],
+  "prevo": "Treecko",
+  "evoType": null,
+  "evoLevel": 16,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Sceptile"
+  ]
+ },
+ {
+  "h": 3,
+  "n": 254,
+  "name": "Sceptile",
+  "slug": "sceptile",
+  "id": "sceptile",
+  "types": [
+   "Grass"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 85,
+   "def": 65,
+   "spa": 105,
+   "spd": 85,
+   "spe": 120
+  },
+  "abilities": [
+   "Overgrow"
+  ],
+  "prevo": "Grovyle",
+  "evoType": null,
+  "evoLevel": 36,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 4,
+  "n": 255,
+  "name": "Torchic",
+  "slug": "torchic",
+  "id": "torchic",
+  "types": [
+   "Fire"
+  ],
+  "stats": {
+   "hp": 45,
+   "atk": 60,
+   "def": 40,
+   "spa": 70,
+   "spd": 50,
+   "spe": 45
+  },
+  "abilities": [
+   "Blaze"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Combusken"
+  ]
+ },
+ {
+  "h": 5,
+  "n": 256,
+  "name": "Combusken",
+  "slug": "combusken",
+  "id": "combusken",
+  "types": [
+   "Fire",
+   "Fighting"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 85,
+   "def": 60,
+   "spa": 85,
+   "spd": 60,
+   "spe": 55
+  },
+  "abilities": [
+   "Blaze"
+  ],
+  "prevo": "Torchic",
+  "evoType": null,
+  "evoLevel": 16,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Blaziken"
+  ]
+ },
+ {
+  "h": 6,
+  "n": 257,
+  "name": "Blaziken",
+  "slug": "blaziken",
+  "id": "blaziken",
+  "types": [
+   "Fire",
+   "Fighting"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 120,
+   "def": 70,
+   "spa": 110,
+   "spd": 70,
+   "spe": 80
+  },
+  "abilities": [
+   "Blaze"
+  ],
+  "prevo": "Combusken",
+  "evoType": null,
+  "evoLevel": 36,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 7,
+  "n": 258,
+  "name": "Mudkip",
+  "slug": "mudkip",
+  "id": "mudkip",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 70,
+   "def": 50,
+   "spa": 50,
+   "spd": 50,
+   "spe": 40
+  },
+  "abilities": [
+   "Torrent"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Marshtomp"
+  ]
+ },
+ {
+  "h": 8,
+  "n": 259,
+  "name": "Marshtomp",
+  "slug": "marshtomp",
+  "id": "marshtomp",
+  "types": [
+   "Water",
+   "Ground"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 85,
+   "def": 70,
+   "spa": 60,
+   "spd": 70,
+   "spe": 50
+  },
+  "abilities": [
+   "Torrent"
+  ],
+  "prevo": "Mudkip",
+  "evoType": null,
+  "evoLevel": 16,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Swampert"
+  ]
+ },
+ {
+  "h": 9,
+  "n": 260,
+  "name": "Swampert",
+  "slug": "swampert",
+  "id": "swampert",
+  "types": [
+   "Water",
+   "Ground"
+  ],
+  "stats": {
+   "hp": 100,
+   "atk": 110,
+   "def": 90,
+   "spa": 85,
+   "spd": 90,
+   "spe": 60
+  },
+  "abilities": [
+   "Torrent"
+  ],
+  "prevo": "Marshtomp",
+  "evoType": null,
+  "evoLevel": 36,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 10,
+  "n": 261,
+  "name": "Poochyena",
+  "slug": "poochyena",
+  "id": "poochyena",
+  "types": [
+   "Dark"
+  ],
+  "stats": {
+   "hp": 35,
+   "atk": 55,
+   "def": 35,
+   "spa": 30,
+   "spd": 30,
+   "spe": 35
+  },
+  "abilities": [
+   "Run Away",
+   "Quick Feet"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Mightyena"
+  ]
+ },
+ {
+  "h": 11,
+  "n": 262,
+  "name": "Mightyena",
+  "slug": "mightyena",
+  "id": "mightyena",
+  "types": [
+   "Dark"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 90,
+   "def": 70,
+   "spa": 60,
+   "spd": 60,
+   "spe": 70
+  },
+  "abilities": [
+   "Intimidate",
+   "Quick Feet"
+  ],
+  "prevo": "Poochyena",
+  "evoType": null,
+  "evoLevel": 18,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 12,
+  "n": 263,
+  "name": "Zigzagoon",
+  "slug": "zigzagoon",
+  "id": "zigzagoon",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 38,
+   "atk": 30,
+   "def": 41,
+   "spa": 30,
+   "spd": 41,
+   "spe": 60
+  },
+  "abilities": [
+   "Pickup",
+   "Gluttony"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Linoone"
+  ]
+ },
+ {
+  "h": 13,
+  "n": 264,
+  "name": "Linoone",
+  "slug": "linoone",
+  "id": "linoone",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 78,
+   "atk": 70,
+   "def": 61,
+   "spa": 50,
+   "spd": 61,
+   "spe": 100
+  },
+  "abilities": [
+   "Pickup",
+   "Gluttony"
+  ],
+  "prevo": "Zigzagoon",
+  "evoType": null,
+  "evoLevel": 20,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 14,
+  "n": 265,
+  "name": "Wurmple",
+  "slug": "wurmple",
+  "id": "wurmple",
+  "types": [
+   "Bug"
+  ],
+  "stats": {
+   "hp": 45,
+   "atk": 45,
+   "def": 35,
+   "spa": 20,
+   "spd": 30,
+   "spe": 20
+  },
+  "abilities": [
+   "Shield Dust"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Silcoon",
+   "Cascoon"
+  ]
+ },
+ {
+  "h": 15,
+  "n": 266,
+  "name": "Silcoon",
+  "slug": "silcoon",
+  "id": "silcoon",
+  "types": [
+   "Bug"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 35,
+   "def": 55,
+   "spa": 25,
+   "spd": 25,
+   "spe": 15
+  },
+  "abilities": [
+   "Shed Skin"
+  ],
+  "prevo": "Wurmple",
+  "evoType": null,
+  "evoLevel": 7,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Beautifly"
+  ]
+ },
+ {
+  "h": 16,
+  "n": 267,
+  "name": "Beautifly",
+  "slug": "beautifly",
+  "id": "beautifly",
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 70,
+   "def": 50,
+   "spa": 90,
+   "spd": 50,
+   "spe": 65
+  },
+  "abilities": [
+   "Swarm"
+  ],
+  "prevo": "Silcoon",
+  "evoType": null,
+  "evoLevel": 10,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 17,
+  "n": 268,
+  "name": "Cascoon",
+  "slug": "cascoon",
+  "id": "cascoon",
+  "types": [
+   "Bug"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 35,
+   "def": 55,
+   "spa": 25,
+   "spd": 25,
+   "spe": 15
+  },
+  "abilities": [
+   "Shed Skin"
+  ],
+  "prevo": "Wurmple",
+  "evoType": null,
+  "evoLevel": 7,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Dustox"
+  ]
+ },
+ {
+  "h": 18,
+  "n": 269,
+  "name": "Dustox",
+  "slug": "dustox",
+  "id": "dustox",
+  "types": [
+   "Bug",
+   "Poison"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 50,
+   "def": 70,
+   "spa": 50,
+   "spd": 90,
+   "spe": 65
+  },
+  "abilities": [
+   "Shield Dust"
+  ],
+  "prevo": "Cascoon",
+  "evoType": null,
+  "evoLevel": 10,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 19,
+  "n": 270,
+  "name": "Lotad",
+  "slug": "lotad",
+  "id": "lotad",
+  "types": [
+   "Water",
+   "Grass"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 30,
+   "def": 30,
+   "spa": 40,
+   "spd": 50,
+   "spe": 30
+  },
+  "abilities": [
+   "Swift Swim",
+   "Rain Dish"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Lombre"
+  ]
+ },
+ {
+  "h": 20,
+  "n": 271,
+  "name": "Lombre",
+  "slug": "lombre",
+  "id": "lombre",
+  "types": [
+   "Water",
+   "Grass"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 50,
+   "def": 50,
+   "spa": 60,
+   "spd": 70,
+   "spe": 50
+  },
+  "abilities": [
+   "Swift Swim",
+   "Rain Dish"
+  ],
+  "prevo": "Lotad",
+  "evoType": null,
+  "evoLevel": 14,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Ludicolo"
+  ]
+ },
+ {
+  "h": 21,
+  "n": 272,
+  "name": "Ludicolo",
+  "slug": "ludicolo",
+  "id": "ludicolo",
+  "types": [
+   "Water",
+   "Grass"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 70,
+   "def": 70,
+   "spa": 90,
+   "spd": 100,
+   "spe": 70
+  },
+  "abilities": [
+   "Swift Swim",
+   "Rain Dish"
+  ],
+  "prevo": "Lombre",
+  "evoType": "useItem",
+  "evoLevel": null,
+  "evoItem": "Water Stone",
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 22,
+  "n": 273,
+  "name": "Seedot",
+  "slug": "seedot",
+  "id": "seedot",
+  "types": [
+   "Grass"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 40,
+   "def": 50,
+   "spa": 30,
+   "spd": 30,
+   "spe": 30
+  },
+  "abilities": [
+   "Chlorophyll",
+   "Early Bird"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Nuzleaf"
+  ]
+ },
+ {
+  "h": 23,
+  "n": 274,
+  "name": "Nuzleaf",
+  "slug": "nuzleaf",
+  "id": "nuzleaf",
+  "types": [
+   "Grass",
+   "Dark"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 70,
+   "def": 40,
+   "spa": 60,
+   "spd": 40,
+   "spe": 60
+  },
+  "abilities": [
+   "Chlorophyll",
+   "Early Bird"
+  ],
+  "prevo": "Seedot",
+  "evoType": null,
+  "evoLevel": 14,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Shiftry"
+  ]
+ },
+ {
+  "h": 24,
+  "n": 275,
+  "name": "Shiftry",
+  "slug": "shiftry",
+  "id": "shiftry",
+  "types": [
+   "Grass",
+   "Dark"
+  ],
+  "stats": {
+   "hp": 90,
+   "atk": 100,
+   "def": 60,
+   "spa": 90,
+   "spd": 60,
+   "spe": 80
+  },
+  "abilities": [
+   "Chlorophyll",
+   "Early Bird"
+  ],
+  "prevo": "Nuzleaf",
+  "evoType": "useItem",
+  "evoLevel": null,
+  "evoItem": "Leaf Stone",
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 25,
+  "n": 276,
+  "name": "Taillow",
+  "slug": "taillow",
+  "id": "taillow",
+  "types": [
+   "Normal",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 55,
+   "def": 30,
+   "spa": 30,
+   "spd": 30,
+   "spe": 85
+  },
+  "abilities": [
+   "Guts"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Swellow"
+  ]
+ },
+ {
+  "h": 26,
+  "n": 277,
+  "name": "Swellow",
+  "slug": "swellow",
+  "id": "swellow",
+  "types": [
+   "Normal",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 85,
+   "def": 60,
+   "spa": 50,
+   "spd": 50,
+   "spe": 125
+  },
+  "abilities": [
+   "Guts"
+  ],
+  "prevo": "Taillow",
+  "evoType": null,
+  "evoLevel": 22,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 27,
+  "n": 278,
+  "name": "Wingull",
+  "slug": "wingull",
+  "id": "wingull",
+  "types": [
+   "Water",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 30,
+   "def": 30,
+   "spa": 55,
+   "spd": 30,
+   "spe": 85
+  },
+  "abilities": [
+   "Keen Eye"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Pelipper"
+  ]
+ },
+ {
+  "h": 28,
+  "n": 279,
+  "name": "Pelipper",
+  "slug": "pelipper",
+  "id": "pelipper",
+  "types": [
+   "Water",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 50,
+   "def": 100,
+   "spa": 85,
+   "spd": 70,
+   "spe": 65
+  },
+  "abilities": [
+   "Keen Eye"
+  ],
+  "prevo": "Wingull",
+  "evoType": null,
+  "evoLevel": 25,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 29,
+  "n": 280,
+  "name": "Ralts",
+  "slug": "ralts",
+  "id": "ralts",
+  "types": [
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 28,
+   "atk": 25,
+   "def": 25,
+   "spa": 45,
+   "spd": 35,
+   "spe": 40
+  },
+  "abilities": [
+   "Synchronize",
+   "Trace"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Kirlia"
+  ]
+ },
+ {
+  "h": 30,
+  "n": 281,
+  "name": "Kirlia",
+  "slug": "kirlia",
+  "id": "kirlia",
+  "types": [
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 38,
+   "atk": 35,
+   "def": 35,
+   "spa": 65,
+   "spd": 55,
+   "spe": 50
+  },
+  "abilities": [
+   "Synchronize",
+   "Trace"
+  ],
+  "prevo": "Ralts",
+  "evoType": null,
+  "evoLevel": 20,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Gardevoir",
+   "Gallade"
+  ]
+ },
+ {
+  "h": 31,
+  "n": 282,
+  "name": "Gardevoir",
+  "slug": "gardevoir",
+  "id": "gardevoir",
+  "types": [
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 68,
+   "atk": 65,
+   "def": 65,
+   "spa": 125,
+   "spd": 115,
+   "spe": 80
+  },
+  "abilities": [
+   "Synchronize",
+   "Trace"
+  ],
+  "prevo": "Kirlia",
+  "evoType": null,
+  "evoLevel": 30,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 32,
+  "n": 283,
+  "name": "Surskit",
+  "slug": "surskit",
+  "id": "surskit",
+  "types": [
+   "Bug",
+   "Water"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 30,
+   "def": 32,
+   "spa": 50,
+   "spd": 52,
+   "spe": 65
+  },
+  "abilities": [
+   "Swift Swim"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Masquerain"
+  ]
+ },
+ {
+  "h": 33,
+  "n": 284,
+  "name": "Masquerain",
+  "slug": "masquerain",
+  "id": "masquerain",
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 60,
+   "def": 62,
+   "spa": 80,
+   "spd": 82,
+   "spe": 60
+  },
+  "abilities": [
+   "Intimidate"
+  ],
+  "prevo": "Surskit",
+  "evoType": null,
+  "evoLevel": 22,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 34,
+  "n": 285,
+  "name": "Shroomish",
+  "slug": "shroomish",
+  "id": "shroomish",
+  "types": [
+   "Grass"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 40,
+   "def": 60,
+   "spa": 40,
+   "spd": 60,
+   "spe": 35
+  },
+  "abilities": [
+   "Effect Spore",
+   "Poison Heal"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Breloom"
+  ]
+ },
+ {
+  "h": 35,
+  "n": 286,
+  "name": "Breloom",
+  "slug": "breloom",
+  "id": "breloom",
+  "types": [
+   "Grass",
+   "Fighting"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 130,
+   "def": 80,
+   "spa": 60,
+   "spd": 60,
+   "spe": 70
+  },
+  "abilities": [
+   "Effect Spore",
+   "Poison Heal"
+  ],
+  "prevo": "Shroomish",
+  "evoType": null,
+  "evoLevel": 23,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 36,
+  "n": 287,
+  "name": "Slakoth",
+  "slug": "slakoth",
+  "id": "slakoth",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 60,
+   "def": 60,
+   "spa": 35,
+   "spd": 35,
+   "spe": 30
+  },
+  "abilities": [
+   "Truant"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Vigoroth"
+  ]
+ },
+ {
+  "h": 37,
+  "n": 288,
+  "name": "Vigoroth",
+  "slug": "vigoroth",
+  "id": "vigoroth",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 80,
+   "def": 80,
+   "spa": 55,
+   "spd": 55,
+   "spe": 90
+  },
+  "abilities": [
+   "Vital Spirit"
+  ],
+  "prevo": "Slakoth",
+  "evoType": null,
+  "evoLevel": 18,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Slaking"
+  ]
+ },
+ {
+  "h": 38,
+  "n": 289,
+  "name": "Slaking",
+  "slug": "slaking",
+  "id": "slaking",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 150,
+   "atk": 160,
+   "def": 100,
+   "spa": 95,
+   "spd": 65,
+   "spe": 100
+  },
+  "abilities": [
+   "Truant"
+  ],
+  "prevo": "Vigoroth",
+  "evoType": null,
+  "evoLevel": 36,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 39,
+  "n": 63,
+  "name": "Abra",
+  "slug": "abra",
+  "id": "abra",
+  "types": [
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 25,
+   "atk": 20,
+   "def": 15,
+   "spa": 105,
+   "spd": 55,
+   "spe": 90
+  },
+  "abilities": [
+   "Synchronize",
+   "Inner Focus"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Kadabra"
+  ]
+ },
+ {
+  "h": 40,
+  "n": 64,
+  "name": "Kadabra",
+  "slug": "kadabra",
+  "id": "kadabra",
+  "types": [
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 35,
+   "def": 30,
+   "spa": 120,
+   "spd": 70,
+   "spe": 105
+  },
+  "abilities": [
+   "Synchronize",
+   "Inner Focus"
+  ],
+  "prevo": "Abra",
+  "evoType": null,
+  "evoLevel": 16,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Alakazam"
+  ]
+ },
+ {
+  "h": 41,
+  "n": 65,
+  "name": "Alakazam",
+  "slug": "alakazam",
+  "id": "alakazam",
+  "types": [
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 55,
+   "atk": 50,
+   "def": 45,
+   "spa": 135,
+   "spd": 85,
+   "spe": 120
+  },
+  "abilities": [
+   "Synchronize",
+   "Inner Focus"
+  ],
+  "prevo": "Kadabra",
+  "evoType": "trade",
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 42,
+  "n": 290,
+  "name": "Nincada",
+  "slug": "nincada",
+  "id": "nincada",
+  "types": [
+   "Bug",
+   "Ground"
+  ],
+  "stats": {
+   "hp": 31,
+   "atk": 45,
+   "def": 90,
+   "spa": 30,
+   "spd": 30,
+   "spe": 40
+  },
+  "abilities": [
+   "Compound Eyes"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Ninjask",
+   "Shedinja"
+  ]
+ },
+ {
+  "h": 43,
+  "n": 291,
+  "name": "Ninjask",
+  "slug": "ninjask",
+  "id": "ninjask",
+  "types": [
+   "Bug",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 61,
+   "atk": 90,
+   "def": 45,
+   "spa": 50,
+   "spd": 50,
+   "spe": 160
+  },
+  "abilities": [
+   "Speed Boost"
+  ],
+  "prevo": "Nincada",
+  "evoType": null,
+  "evoLevel": 20,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 44,
+  "n": 292,
+  "name": "Shedinja",
+  "slug": "shedinja",
+  "id": "shedinja",
+  "types": [
+   "Bug",
+   "Ghost"
+  ],
+  "stats": {
+   "hp": 1,
+   "atk": 90,
+   "def": 45,
+   "spa": 30,
+   "spd": 30,
+   "spe": 40
+  },
+  "abilities": [
+   "Wonder Guard"
+  ],
+  "prevo": "Nincada",
+  "evoType": null,
+  "evoLevel": 20,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 45,
+  "n": 293,
+  "name": "Whismur",
+  "slug": "whismur",
+  "id": "whismur",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 64,
+   "atk": 51,
+   "def": 23,
+   "spa": 51,
+   "spd": 23,
+   "spe": 28
+  },
+  "abilities": [
+   "Soundproof"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Loudred"
+  ]
+ },
+ {
+  "h": 46,
+  "n": 294,
+  "name": "Loudred",
+  "slug": "loudred",
+  "id": "loudred",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 84,
+   "atk": 71,
+   "def": 43,
+   "spa": 71,
+   "spd": 43,
+   "spe": 48
+  },
+  "abilities": [
+   "Soundproof"
+  ],
+  "prevo": "Whismur",
+  "evoType": null,
+  "evoLevel": 20,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Exploud"
+  ]
+ },
+ {
+  "h": 47,
+  "n": 295,
+  "name": "Exploud",
+  "slug": "exploud",
+  "id": "exploud",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 104,
+   "atk": 91,
+   "def": 63,
+   "spa": 91,
+   "spd": 63,
+   "spe": 68
+  },
+  "abilities": [
+   "Soundproof"
+  ],
+  "prevo": "Loudred",
+  "evoType": null,
+  "evoLevel": 40,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 48,
+  "n": 296,
+  "name": "Makuhita",
+  "slug": "makuhita",
+  "id": "makuhita",
+  "types": [
+   "Fighting"
+  ],
+  "stats": {
+   "hp": 72,
+   "atk": 60,
+   "def": 30,
+   "spa": 20,
+   "spd": 30,
+   "spe": 25
+  },
+  "abilities": [
+   "Thick Fat",
+   "Guts"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Hariyama"
+  ]
+ },
+ {
+  "h": 49,
+  "n": 297,
+  "name": "Hariyama",
+  "slug": "hariyama",
+  "id": "hariyama",
+  "types": [
+   "Fighting"
+  ],
+  "stats": {
+   "hp": 144,
+   "atk": 120,
+   "def": 60,
+   "spa": 40,
+   "spd": 60,
+   "spe": 50
+  },
+  "abilities": [
+   "Thick Fat",
+   "Guts"
+  ],
+  "prevo": "Makuhita",
+  "evoType": null,
+  "evoLevel": 24,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 50,
+  "n": 118,
+  "name": "Goldeen",
+  "slug": "goldeen",
+  "id": "goldeen",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 45,
+   "atk": 67,
+   "def": 60,
+   "spa": 35,
+   "spd": 50,
+   "spe": 63
+  },
+  "abilities": [
+   "Swift Swim",
+   "Water Veil"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Seaking"
+  ]
+ },
+ {
+  "h": 51,
+  "n": 119,
+  "name": "Seaking",
+  "slug": "seaking",
+  "id": "seaking",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 92,
+   "def": 65,
+   "spa": 65,
+   "spd": 80,
+   "spe": 68
+  },
+  "abilities": [
+   "Swift Swim",
+   "Water Veil"
+  ],
+  "prevo": "Goldeen",
+  "evoType": null,
+  "evoLevel": 33,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 52,
+  "n": 129,
+  "name": "Magikarp",
+  "slug": "magikarp",
+  "id": "magikarp",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 20,
+   "atk": 10,
+   "def": 55,
+   "spa": 15,
+   "spd": 20,
+   "spe": 80
+  },
+  "abilities": [
+   "Swift Swim"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Gyarados"
+  ]
+ },
+ {
+  "h": 53,
+  "n": 130,
+  "name": "Gyarados",
+  "slug": "gyarados",
+  "id": "gyarados",
+  "types": [
+   "Water",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 95,
+   "atk": 125,
+   "def": 79,
+   "spa": 60,
+   "spd": 100,
+   "spe": 81
+  },
+  "abilities": [
+   "Intimidate"
+  ],
+  "prevo": "Magikarp",
+  "evoType": null,
+  "evoLevel": 20,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 54,
+  "n": 298,
+  "name": "Azurill",
+  "slug": "azurill",
+  "id": "azurill",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 20,
+   "def": 40,
+   "spa": 20,
+   "spd": 40,
+   "spe": 20
+  },
+  "abilities": [
+   "Thick Fat",
+   "Huge Power"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Marill"
+  ]
+ },
+ {
+  "h": 55,
+  "n": 183,
+  "name": "Marill",
+  "slug": "marill",
+  "id": "marill",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 20,
+   "def": 50,
+   "spa": 20,
+   "spd": 50,
+   "spe": 40
+  },
+  "abilities": [
+   "Thick Fat",
+   "Huge Power"
+  ],
+  "prevo": "Azurill",
+  "evoType": "levelFriendship",
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Azumarill"
+  ]
+ },
+ {
+  "h": 56,
+  "n": 184,
+  "name": "Azumarill",
+  "slug": "azumarill",
+  "id": "azumarill",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 100,
+   "atk": 50,
+   "def": 80,
+   "spa": 50,
+   "spd": 80,
+   "spe": 50
+  },
+  "abilities": [
+   "Thick Fat",
+   "Huge Power"
+  ],
+  "prevo": "Marill",
+  "evoType": null,
+  "evoLevel": 18,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 57,
+  "n": 74,
+  "name": "Geodude",
+  "slug": "geodude",
+  "id": "geodude",
+  "types": [
+   "Rock",
+   "Ground"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 80,
+   "def": 100,
+   "spa": 30,
+   "spd": 30,
+   "spe": 20
+  },
+  "abilities": [
+   "Rock Head",
+   "Sturdy"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Graveler"
+  ]
+ },
+ {
+  "h": 58,
+  "n": 75,
+  "name": "Graveler",
+  "slug": "graveler",
+  "id": "graveler",
+  "types": [
+   "Rock",
+   "Ground"
+  ],
+  "stats": {
+   "hp": 55,
+   "atk": 95,
+   "def": 115,
+   "spa": 45,
+   "spd": 45,
+   "spe": 35
+  },
+  "abilities": [
+   "Rock Head",
+   "Sturdy"
+  ],
+  "prevo": "Geodude",
+  "evoType": null,
+  "evoLevel": 25,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Golem"
+  ]
+ },
+ {
+  "h": 59,
+  "n": 76,
+  "name": "Golem",
+  "slug": "golem",
+  "id": "golem",
+  "types": [
+   "Rock",
+   "Ground"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 110,
+   "def": 130,
+   "spa": 55,
+   "spd": 65,
+   "spe": 45
+  },
+  "abilities": [
+   "Rock Head",
+   "Sturdy"
+  ],
+  "prevo": "Graveler",
+  "evoType": "trade",
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 60,
+  "n": 299,
+  "name": "Nosepass",
+  "slug": "nosepass",
+  "id": "nosepass",
+  "types": [
+   "Rock"
+  ],
+  "stats": {
+   "hp": 30,
+   "atk": 45,
+   "def": 135,
+   "spa": 45,
+   "spd": 90,
+   "spe": 30
+  },
+  "abilities": [
+   "Sturdy",
+   "Magnet Pull"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Probopass"
+  ]
+ },
+ {
+  "h": 61,
+  "n": 300,
+  "name": "Skitty",
+  "slug": "skitty",
+  "id": "skitty",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 45,
+   "def": 45,
+   "spa": 35,
+   "spd": 35,
+   "spe": 50
+  },
+  "abilities": [
+   "Cute Charm",
+   "Normalize"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Delcatty"
+  ]
+ },
+ {
+  "h": 62,
+  "n": 301,
+  "name": "Delcatty",
+  "slug": "delcatty",
+  "id": "delcatty",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 65,
+   "def": 65,
+   "spa": 55,
+   "spd": 55,
+   "spe": 70
+  },
+  "abilities": [
+   "Cute Charm",
+   "Normalize"
+  ],
+  "prevo": "Skitty",
+  "evoType": "useItem",
+  "evoLevel": null,
+  "evoItem": "Moon Stone",
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 63,
+  "n": 41,
+  "name": "Zubat",
+  "slug": "zubat",
+  "id": "zubat",
+  "types": [
+   "Poison",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 45,
+   "def": 35,
+   "spa": 30,
+   "spd": 40,
+   "spe": 55
+  },
+  "abilities": [
+   "Inner Focus"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Golbat"
+  ]
+ },
+ {
+  "h": 64,
+  "n": 42,
+  "name": "Golbat",
+  "slug": "golbat",
+  "id": "golbat",
+  "types": [
+   "Poison",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 75,
+   "atk": 80,
+   "def": 70,
+   "spa": 65,
+   "spd": 75,
+   "spe": 90
+  },
+  "abilities": [
+   "Inner Focus"
+  ],
+  "prevo": "Zubat",
+  "evoType": null,
+  "evoLevel": 22,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Crobat"
+  ]
+ },
+ {
+  "h": 65,
+  "n": 169,
+  "name": "Crobat",
+  "slug": "crobat",
+  "id": "crobat",
+  "types": [
+   "Poison",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 85,
+   "atk": 90,
+   "def": 80,
+   "spa": 70,
+   "spd": 80,
+   "spe": 130
+  },
+  "abilities": [
+   "Inner Focus"
+  ],
+  "prevo": "Golbat",
+  "evoType": "levelFriendship",
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 66,
+  "n": 72,
+  "name": "Tentacool",
+  "slug": "tentacool",
+  "id": "tentacool",
+  "types": [
+   "Water",
+   "Poison"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 40,
+   "def": 35,
+   "spa": 50,
+   "spd": 100,
+   "spe": 70
+  },
+  "abilities": [
+   "Clear Body",
+   "Liquid Ooze"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Tentacruel"
+  ]
+ },
+ {
+  "h": 67,
+  "n": 73,
+  "name": "Tentacruel",
+  "slug": "tentacruel",
+  "id": "tentacruel",
+  "types": [
+   "Water",
+   "Poison"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 70,
+   "def": 65,
+   "spa": 80,
+   "spd": 120,
+   "spe": 100
+  },
+  "abilities": [
+   "Clear Body",
+   "Liquid Ooze"
+  ],
+  "prevo": "Tentacool",
+  "evoType": null,
+  "evoLevel": 30,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 68,
+  "n": 302,
+  "name": "Sableye",
+  "slug": "sableye",
+  "id": "sableye",
+  "types": [
+   "Dark",
+   "Ghost"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 75,
+   "def": 75,
+   "spa": 65,
+   "spd": 65,
+   "spe": 50
+  },
+  "abilities": [
+   "Keen Eye",
+   "Stall"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 69,
+  "n": 303,
+  "name": "Mawile",
+  "slug": "mawile",
+  "id": "mawile",
+  "types": [
+   "Steel"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 85,
+   "def": 85,
+   "spa": 55,
+   "spd": 55,
+   "spe": 50
+  },
+  "abilities": [
+   "Hyper Cutter",
+   "Intimidate"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 70,
+  "n": 304,
+  "name": "Aron",
+  "slug": "aron",
+  "id": "aron",
+  "types": [
+   "Steel",
+   "Rock"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 70,
+   "def": 100,
+   "spa": 40,
+   "spd": 40,
+   "spe": 30
+  },
+  "abilities": [
+   "Sturdy",
+   "Rock Head"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Lairon"
+  ]
+ },
+ {
+  "h": 71,
+  "n": 305,
+  "name": "Lairon",
+  "slug": "lairon",
+  "id": "lairon",
+  "types": [
+   "Steel",
+   "Rock"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 90,
+   "def": 140,
+   "spa": 50,
+   "spd": 50,
+   "spe": 40
+  },
+  "abilities": [
+   "Sturdy",
+   "Rock Head"
+  ],
+  "prevo": "Aron",
+  "evoType": null,
+  "evoLevel": 32,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Aggron"
+  ]
+ },
+ {
+  "h": 72,
+  "n": 306,
+  "name": "Aggron",
+  "slug": "aggron",
+  "id": "aggron",
+  "types": [
+   "Steel",
+   "Rock"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 110,
+   "def": 180,
+   "spa": 60,
+   "spd": 60,
+   "spe": 50
+  },
+  "abilities": [
+   "Sturdy",
+   "Rock Head"
+  ],
+  "prevo": "Lairon",
+  "evoType": null,
+  "evoLevel": 42,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 73,
+  "n": 66,
+  "name": "Machop",
+  "slug": "machop",
+  "id": "machop",
+  "types": [
+   "Fighting"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 80,
+   "def": 50,
+   "spa": 35,
+   "spd": 35,
+   "spe": 35
+  },
+  "abilities": [
+   "Guts",
+   "No Guard"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Machoke"
+  ]
+ },
+ {
+  "h": 74,
+  "n": 67,
+  "name": "Machoke",
+  "slug": "machoke",
+  "id": "machoke",
+  "types": [
+   "Fighting"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 100,
+   "def": 70,
+   "spa": 50,
+   "spd": 60,
+   "spe": 45
+  },
+  "abilities": [
+   "Guts",
+   "No Guard"
+  ],
+  "prevo": "Machop",
+  "evoType": null,
+  "evoLevel": 28,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Machamp"
+  ]
+ },
+ {
+  "h": 75,
+  "n": 68,
+  "name": "Machamp",
+  "slug": "machamp",
+  "id": "machamp",
+  "types": [
+   "Fighting"
+  ],
+  "stats": {
+   "hp": 90,
+   "atk": 130,
+   "def": 80,
+   "spa": 65,
+   "spd": 85,
+   "spe": 55
+  },
+  "abilities": [
+   "Guts",
+   "No Guard"
+  ],
+  "prevo": "Machoke",
+  "evoType": "trade",
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 76,
+  "n": 307,
+  "name": "Meditite",
+  "slug": "meditite",
+  "id": "meditite",
+  "types": [
+   "Fighting",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 30,
+   "atk": 40,
+   "def": 55,
+   "spa": 40,
+   "spd": 55,
+   "spe": 60
+  },
+  "abilities": [
+   "Pure Power"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Medicham"
+  ]
+ },
+ {
+  "h": 77,
+  "n": 308,
+  "name": "Medicham",
+  "slug": "medicham",
+  "id": "medicham",
+  "types": [
+   "Fighting",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 60,
+   "def": 75,
+   "spa": 60,
+   "spd": 75,
+   "spe": 80
+  },
+  "abilities": [
+   "Pure Power"
+  ],
+  "prevo": "Meditite",
+  "evoType": null,
+  "evoLevel": 37,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 78,
+  "n": 309,
+  "name": "Electrike",
+  "slug": "electrike",
+  "id": "electrike",
+  "types": [
+   "Electric"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 45,
+   "def": 40,
+   "spa": 65,
+   "spd": 40,
+   "spe": 65
+  },
+  "abilities": [
+   "Static",
+   "Lightning Rod"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Manectric"
+  ]
+ },
+ {
+  "h": 79,
+  "n": 310,
+  "name": "Manectric",
+  "slug": "manectric",
+  "id": "manectric",
+  "types": [
+   "Electric"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 75,
+   "def": 60,
+   "spa": 105,
+   "spd": 60,
+   "spe": 105
+  },
+  "abilities": [
+   "Static",
+   "Lightning Rod"
+  ],
+  "prevo": "Electrike",
+  "evoType": null,
+  "evoLevel": 26,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 80,
+  "n": 311,
+  "name": "Plusle",
+  "slug": "plusle",
+  "id": "plusle",
+  "types": [
+   "Electric"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 50,
+   "def": 40,
+   "spa": 85,
+   "spd": 75,
+   "spe": 95
+  },
+  "abilities": [
+   "Plus"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 81,
+  "n": 312,
+  "name": "Minun",
+  "slug": "minun",
+  "id": "minun",
+  "types": [
+   "Electric"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 40,
+   "def": 50,
+   "spa": 75,
+   "spd": 85,
+   "spe": 95
+  },
+  "abilities": [
+   "Minus"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 82,
+  "n": 81,
+  "name": "Magnemite",
+  "slug": "magnemite",
+  "id": "magnemite",
+  "types": [
+   "Electric",
+   "Steel"
+  ],
+  "stats": {
+   "hp": 25,
+   "atk": 35,
+   "def": 70,
+   "spa": 95,
+   "spd": 55,
+   "spe": 45
+  },
+  "abilities": [
+   "Magnet Pull",
+   "Sturdy"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Magneton"
+  ]
+ },
+ {
+  "h": 83,
+  "n": 82,
+  "name": "Magneton",
+  "slug": "magneton",
+  "id": "magneton",
+  "types": [
+   "Electric",
+   "Steel"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 60,
+   "def": 95,
+   "spa": 120,
+   "spd": 70,
+   "spe": 70
+  },
+  "abilities": [
+   "Magnet Pull",
+   "Sturdy"
+  ],
+  "prevo": "Magnemite",
+  "evoType": null,
+  "evoLevel": 30,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Magnezone"
+  ]
+ },
+ {
+  "h": 84,
+  "n": 100,
+  "name": "Voltorb",
+  "slug": "voltorb",
+  "id": "voltorb",
+  "types": [
+   "Electric"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 30,
+   "def": 50,
+   "spa": 55,
+   "spd": 55,
+   "spe": 100
+  },
+  "abilities": [
+   "Soundproof",
+   "Static"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Electrode"
+  ]
+ },
+ {
+  "h": 85,
+  "n": 101,
+  "name": "Electrode",
+  "slug": "electrode",
+  "id": "electrode",
+  "types": [
+   "Electric"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 50,
+   "def": 70,
+   "spa": 80,
+   "spd": 80,
+   "spe": 140
+  },
+  "abilities": [
+   "Soundproof",
+   "Static"
+  ],
+  "prevo": "Voltorb",
+  "evoType": null,
+  "evoLevel": 30,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 86,
+  "n": 313,
+  "name": "Volbeat",
+  "slug": "volbeat",
+  "id": "volbeat",
+  "types": [
+   "Bug"
+  ],
+  "stats": {
+   "hp": 65,
+   "atk": 73,
+   "def": 55,
+   "spa": 47,
+   "spd": 75,
+   "spe": 85
+  },
+  "abilities": [
+   "Illuminate",
+   "Swarm"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 87,
+  "n": 314,
+  "name": "Illumise",
+  "slug": "illumise",
+  "id": "illumise",
+  "types": [
+   "Bug"
+  ],
+  "stats": {
+   "hp": 65,
+   "atk": 47,
+   "def": 55,
+   "spa": 73,
+   "spd": 75,
+   "spe": 85
+  },
+  "abilities": [
+   "Oblivious",
+   "Tinted Lens"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 88,
+  "n": 43,
+  "name": "Oddish",
+  "slug": "oddish",
+  "id": "oddish",
+  "types": [
+   "Grass",
+   "Poison"
+  ],
+  "stats": {
+   "hp": 45,
+   "atk": 50,
+   "def": 55,
+   "spa": 75,
+   "spd": 65,
+   "spe": 30
+  },
+  "abilities": [
+   "Chlorophyll"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Gloom"
+  ]
+ },
+ {
+  "h": 89,
+  "n": 44,
+  "name": "Gloom",
+  "slug": "gloom",
+  "id": "gloom",
+  "types": [
+   "Grass",
+   "Poison"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 65,
+   "def": 70,
+   "spa": 85,
+   "spd": 75,
+   "spe": 40
+  },
+  "abilities": [
+   "Chlorophyll"
+  ],
+  "prevo": "Oddish",
+  "evoType": null,
+  "evoLevel": 21,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Vileplume",
+   "Bellossom"
+  ]
+ },
+ {
+  "h": 90,
+  "n": 45,
+  "name": "Vileplume",
+  "slug": "vileplume",
+  "id": "vileplume",
+  "types": [
+   "Grass",
+   "Poison"
+  ],
+  "stats": {
+   "hp": 75,
+   "atk": 80,
+   "def": 85,
+   "spa": 100,
+   "spd": 90,
+   "spe": 50
+  },
+  "abilities": [
+   "Chlorophyll"
+  ],
+  "prevo": "Gloom",
+  "evoType": "useItem",
+  "evoLevel": null,
+  "evoItem": "Leaf Stone",
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 91,
+  "n": 182,
+  "name": "Bellossom",
+  "slug": "bellossom",
+  "id": "bellossom",
+  "types": [
+   "Grass"
+  ],
+  "stats": {
+   "hp": 75,
+   "atk": 80,
+   "def": 85,
+   "spa": 90,
+   "spd": 100,
+   "spe": 50
+  },
+  "abilities": [
+   "Chlorophyll"
+  ],
+  "prevo": "Gloom",
+  "evoType": "useItem",
+  "evoLevel": null,
+  "evoItem": "Sun Stone",
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 92,
+  "n": 84,
+  "name": "Doduo",
+  "slug": "doduo",
+  "id": "doduo",
+  "types": [
+   "Normal",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 35,
+   "atk": 85,
+   "def": 45,
+   "spa": 35,
+   "spd": 35,
+   "spe": 75
+  },
+  "abilities": [
+   "Run Away",
+   "Early Bird"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Dodrio"
+  ]
+ },
+ {
+  "h": 93,
+  "n": 85,
+  "name": "Dodrio",
+  "slug": "dodrio",
+  "id": "dodrio",
+  "types": [
+   "Normal",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 110,
+   "def": 70,
+   "spa": 60,
+   "spd": 60,
+   "spe": 100
+  },
+  "abilities": [
+   "Run Away",
+   "Early Bird"
+  ],
+  "prevo": "Doduo",
+  "evoType": null,
+  "evoLevel": 31,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 94,
+  "n": 315,
+  "name": "Roselia",
+  "slug": "roselia",
+  "id": "roselia",
+  "types": [
+   "Grass",
+   "Poison"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 60,
+   "def": 45,
+   "spa": 100,
+   "spd": 80,
+   "spe": 65
+  },
+  "abilities": [
+   "Natural Cure",
+   "Poison Point"
+  ],
+  "prevo": "Budew",
+  "evoType": "levelFriendship",
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": "during the day",
+  "evos": [
+   "Roserade"
+  ]
+ },
+ {
+  "h": 95,
+  "n": 316,
+  "name": "Gulpin",
+  "slug": "gulpin",
+  "id": "gulpin",
+  "types": [
+   "Poison"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 43,
+   "def": 53,
+   "spa": 43,
+   "spd": 53,
+   "spe": 40
+  },
+  "abilities": [
+   "Liquid Ooze",
+   "Sticky Hold"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Swalot"
+  ]
+ },
+ {
+  "h": 96,
+  "n": 317,
+  "name": "Swalot",
+  "slug": "swalot",
+  "id": "swalot",
+  "types": [
+   "Poison"
+  ],
+  "stats": {
+   "hp": 100,
+   "atk": 73,
+   "def": 83,
+   "spa": 73,
+   "spd": 83,
+   "spe": 55
+  },
+  "abilities": [
+   "Liquid Ooze",
+   "Sticky Hold"
+  ],
+  "prevo": "Gulpin",
+  "evoType": null,
+  "evoLevel": 26,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 97,
+  "n": 318,
+  "name": "Carvanha",
+  "slug": "carvanha",
+  "id": "carvanha",
+  "types": [
+   "Water",
+   "Dark"
+  ],
+  "stats": {
+   "hp": 45,
+   "atk": 90,
+   "def": 20,
+   "spa": 65,
+   "spd": 20,
+   "spe": 65
+  },
+  "abilities": [
+   "Rough Skin"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Sharpedo"
+  ]
+ },
+ {
+  "h": 98,
+  "n": 319,
+  "name": "Sharpedo",
+  "slug": "sharpedo",
+  "id": "sharpedo",
+  "types": [
+   "Water",
+   "Dark"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 120,
+   "def": 40,
+   "spa": 95,
+   "spd": 40,
+   "spe": 95
+  },
+  "abilities": [
+   "Rough Skin"
+  ],
+  "prevo": "Carvanha",
+  "evoType": null,
+  "evoLevel": 30,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 99,
+  "n": 320,
+  "name": "Wailmer",
+  "slug": "wailmer",
+  "id": "wailmer",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 130,
+   "atk": 70,
+   "def": 35,
+   "spa": 70,
+   "spd": 35,
+   "spe": 60
+  },
+  "abilities": [
+   "Water Veil",
+   "Oblivious"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Wailord"
+  ]
+ },
+ {
+  "h": 100,
+  "n": 321,
+  "name": "Wailord",
+  "slug": "wailord",
+  "id": "wailord",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 170,
+   "atk": 90,
+   "def": 45,
+   "spa": 90,
+   "spd": 45,
+   "spe": 60
+  },
+  "abilities": [
+   "Water Veil",
+   "Oblivious"
+  ],
+  "prevo": "Wailmer",
+  "evoType": null,
+  "evoLevel": 40,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 101,
+  "n": 322,
+  "name": "Numel",
+  "slug": "numel",
+  "id": "numel",
+  "types": [
+   "Fire",
+   "Ground"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 60,
+   "def": 40,
+   "spa": 65,
+   "spd": 45,
+   "spe": 35
+  },
+  "abilities": [
+   "Oblivious",
+   "Simple"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Camerupt"
+  ]
+ },
+ {
+  "h": 102,
+  "n": 323,
+  "name": "Camerupt",
+  "slug": "camerupt",
+  "id": "camerupt",
+  "types": [
+   "Fire",
+   "Ground"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 100,
+   "def": 70,
+   "spa": 105,
+   "spd": 75,
+   "spe": 40
+  },
+  "abilities": [
+   "Magma Armor",
+   "Solid Rock"
+  ],
+  "prevo": "Numel",
+  "evoType": null,
+  "evoLevel": 33,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 103,
+  "n": 218,
+  "name": "Slugma",
+  "slug": "slugma",
+  "id": "slugma",
+  "types": [
+   "Fire"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 40,
+   "def": 40,
+   "spa": 70,
+   "spd": 40,
+   "spe": 20
+  },
+  "abilities": [
+   "Magma Armor",
+   "Flame Body"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Magcargo"
+  ]
+ },
+ {
+  "h": 104,
+  "n": 219,
+  "name": "Magcargo",
+  "slug": "magcargo",
+  "id": "magcargo",
+  "types": [
+   "Fire",
+   "Rock"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 50,
+   "def": 120,
+   "spa": 80,
+   "spd": 80,
+   "spe": 30
+  },
+  "abilities": [
+   "Magma Armor",
+   "Flame Body"
+  ],
+  "prevo": "Slugma",
+  "evoType": null,
+  "evoLevel": 38,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 105,
+  "n": 324,
+  "name": "Torkoal",
+  "slug": "torkoal",
+  "id": "torkoal",
+  "types": [
+   "Fire"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 85,
+   "def": 140,
+   "spa": 85,
+   "spd": 70,
+   "spe": 20
+  },
+  "abilities": [
+   "White Smoke"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 106,
+  "n": 88,
+  "name": "Grimer",
+  "slug": "grimer",
+  "id": "grimer",
+  "types": [
+   "Poison"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 80,
+   "def": 50,
+   "spa": 40,
+   "spd": 50,
+   "spe": 25
+  },
+  "abilities": [
+   "Stench",
+   "Sticky Hold"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Muk"
+  ]
+ },
+ {
+  "h": 107,
+  "n": 89,
+  "name": "Muk",
+  "slug": "muk",
+  "id": "muk",
+  "types": [
+   "Poison"
+  ],
+  "stats": {
+   "hp": 105,
+   "atk": 105,
+   "def": 75,
+   "spa": 65,
+   "spd": 100,
+   "spe": 50
+  },
+  "abilities": [
+   "Stench",
+   "Sticky Hold"
+  ],
+  "prevo": "Grimer",
+  "evoType": null,
+  "evoLevel": 38,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 108,
+  "n": 109,
+  "name": "Koffing",
+  "slug": "koffing",
+  "id": "koffing",
+  "types": [
+   "Poison"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 65,
+   "def": 95,
+   "spa": 60,
+   "spd": 45,
+   "spe": 35
+  },
+  "abilities": [
+   "Levitate"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Weezing",
+   "Weezing-Galar"
+  ]
+ },
+ {
+  "h": 109,
+  "n": 110,
+  "name": "Weezing",
+  "slug": "weezing",
+  "id": "weezing",
+  "types": [
+   "Poison"
+  ],
+  "stats": {
+   "hp": 65,
+   "atk": 90,
+   "def": 120,
+   "spa": 85,
+   "spd": 70,
+   "spe": 60
+  },
+  "abilities": [
+   "Levitate"
+  ],
+  "prevo": "Koffing",
+  "evoType": null,
+  "evoLevel": 35,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 110,
+  "n": 325,
+  "name": "Spoink",
+  "slug": "spoink",
+  "id": "spoink",
+  "types": [
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 25,
+   "def": 35,
+   "spa": 70,
+   "spd": 80,
+   "spe": 60
+  },
+  "abilities": [
+   "Thick Fat",
+   "Own Tempo"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Grumpig"
+  ]
+ },
+ {
+  "h": 111,
+  "n": 326,
+  "name": "Grumpig",
+  "slug": "grumpig",
+  "id": "grumpig",
+  "types": [
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 45,
+   "def": 65,
+   "spa": 90,
+   "spd": 110,
+   "spe": 80
+  },
+  "abilities": [
+   "Thick Fat",
+   "Own Tempo"
+  ],
+  "prevo": "Spoink",
+  "evoType": null,
+  "evoLevel": 32,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 112,
+  "n": 27,
+  "name": "Sandshrew",
+  "slug": "sandshrew",
+  "id": "sandshrew",
+  "types": [
+   "Ground"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 75,
+   "def": 85,
+   "spa": 20,
+   "spd": 30,
+   "spe": 40
+  },
+  "abilities": [
+   "Sand Veil"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Sandslash"
+  ]
+ },
+ {
+  "h": 113,
+  "n": 28,
+  "name": "Sandslash",
+  "slug": "sandslash",
+  "id": "sandslash",
+  "types": [
+   "Ground"
+  ],
+  "stats": {
+   "hp": 75,
+   "atk": 100,
+   "def": 110,
+   "spa": 45,
+   "spd": 55,
+   "spe": 65
+  },
+  "abilities": [
+   "Sand Veil"
+  ],
+  "prevo": "Sandshrew",
+  "evoType": null,
+  "evoLevel": 22,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 114,
+  "n": 327,
+  "name": "Spinda",
+  "slug": "spinda",
+  "id": "spinda",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 60,
+   "def": 60,
+   "spa": 60,
+   "spd": 60,
+   "spe": 60
+  },
+  "abilities": [
+   "Own Tempo",
+   "Tangled Feet"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 115,
+  "n": 227,
+  "name": "Skarmory",
+  "slug": "skarmory",
+  "id": "skarmory",
+  "types": [
+   "Steel",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 65,
+   "atk": 80,
+   "def": 140,
+   "spa": 40,
+   "spd": 70,
+   "spe": 70
+  },
+  "abilities": [
+   "Keen Eye",
+   "Sturdy"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 116,
+  "n": 328,
+  "name": "Trapinch",
+  "slug": "trapinch",
+  "id": "trapinch",
+  "types": [
+   "Ground"
+  ],
+  "stats": {
+   "hp": 45,
+   "atk": 100,
+   "def": 45,
+   "spa": 45,
+   "spd": 45,
+   "spe": 10
+  },
+  "abilities": [
+   "Hyper Cutter",
+   "Arena Trap"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Vibrava"
+  ]
+ },
+ {
+  "h": 117,
+  "n": 329,
+  "name": "Vibrava",
+  "slug": "vibrava",
+  "id": "vibrava",
+  "types": [
+   "Ground",
+   "Dragon"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 70,
+   "def": 50,
+   "spa": 50,
+   "spd": 50,
+   "spe": 70
+  },
+  "abilities": [
+   "Levitate"
+  ],
+  "prevo": "Trapinch",
+  "evoType": null,
+  "evoLevel": 35,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Flygon"
+  ]
+ },
+ {
+  "h": 118,
+  "n": 330,
+  "name": "Flygon",
+  "slug": "flygon",
+  "id": "flygon",
+  "types": [
+   "Ground",
+   "Dragon"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 100,
+   "def": 80,
+   "spa": 80,
+   "spd": 80,
+   "spe": 100
+  },
+  "abilities": [
+   "Levitate"
+  ],
+  "prevo": "Vibrava",
+  "evoType": null,
+  "evoLevel": 45,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 119,
+  "n": 331,
+  "name": "Cacnea",
+  "slug": "cacnea",
+  "id": "cacnea",
+  "types": [
+   "Grass"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 85,
+   "def": 40,
+   "spa": 85,
+   "spd": 40,
+   "spe": 35
+  },
+  "abilities": [
+   "Sand Veil"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Cacturne"
+  ]
+ },
+ {
+  "h": 120,
+  "n": 332,
+  "name": "Cacturne",
+  "slug": "cacturne",
+  "id": "cacturne",
+  "types": [
+   "Grass",
+   "Dark"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 115,
+   "def": 60,
+   "spa": 115,
+   "spd": 60,
+   "spe": 55
+  },
+  "abilities": [
+   "Sand Veil"
+  ],
+  "prevo": "Cacnea",
+  "evoType": null,
+  "evoLevel": 32,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 121,
+  "n": 333,
+  "name": "Swablu",
+  "slug": "swablu",
+  "id": "swablu",
+  "types": [
+   "Normal",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 45,
+   "atk": 40,
+   "def": 60,
+   "spa": 40,
+   "spd": 75,
+   "spe": 50
+  },
+  "abilities": [
+   "Natural Cure"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Altaria"
+  ]
+ },
+ {
+  "h": 122,
+  "n": 334,
+  "name": "Altaria",
+  "slug": "altaria",
+  "id": "altaria",
+  "types": [
+   "Dragon",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 75,
+   "atk": 70,
+   "def": 90,
+   "spa": 70,
+   "spd": 105,
+   "spe": 80
+  },
+  "abilities": [
+   "Natural Cure"
+  ],
+  "prevo": "Swablu",
+  "evoType": null,
+  "evoLevel": 35,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 123,
+  "n": 335,
+  "name": "Zangoose",
+  "slug": "zangoose",
+  "id": "zangoose",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 73,
+   "atk": 115,
+   "def": 60,
+   "spa": 60,
+   "spd": 60,
+   "spe": 90
+  },
+  "abilities": [
+   "Immunity"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 124,
+  "n": 336,
+  "name": "Seviper",
+  "slug": "seviper",
+  "id": "seviper",
+  "types": [
+   "Poison"
+  ],
+  "stats": {
+   "hp": 73,
+   "atk": 100,
+   "def": 60,
+   "spa": 100,
+   "spd": 60,
+   "spe": 65
+  },
+  "abilities": [
+   "Shed Skin"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 125,
+  "n": 337,
+  "name": "Lunatone",
+  "slug": "lunatone",
+  "id": "lunatone",
+  "types": [
+   "Rock",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 55,
+   "def": 65,
+   "spa": 95,
+   "spd": 85,
+   "spe": 70
+  },
+  "abilities": [
+   "Levitate"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 126,
+  "n": 338,
+  "name": "Solrock",
+  "slug": "solrock",
+  "id": "solrock",
+  "types": [
+   "Rock",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 95,
+   "def": 85,
+   "spa": 55,
+   "spd": 65,
+   "spe": 70
+  },
+  "abilities": [
+   "Levitate"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 127,
+  "n": 339,
+  "name": "Barboach",
+  "slug": "barboach",
+  "id": "barboach",
+  "types": [
+   "Water",
+   "Ground"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 48,
+   "def": 43,
+   "spa": 46,
+   "spd": 41,
+   "spe": 60
+  },
+  "abilities": [
+   "Oblivious",
+   "Anticipation"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Whiscash"
+  ]
+ },
+ {
+  "h": 128,
+  "n": 340,
+  "name": "Whiscash",
+  "slug": "whiscash",
+  "id": "whiscash",
+  "types": [
+   "Water",
+   "Ground"
+  ],
+  "stats": {
+   "hp": 110,
+   "atk": 78,
+   "def": 73,
+   "spa": 76,
+   "spd": 71,
+   "spe": 60
+  },
+  "abilities": [
+   "Oblivious",
+   "Anticipation"
+  ],
+  "prevo": "Barboach",
+  "evoType": null,
+  "evoLevel": 30,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 129,
+  "n": 341,
+  "name": "Corphish",
+  "slug": "corphish",
+  "id": "corphish",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 43,
+   "atk": 80,
+   "def": 65,
+   "spa": 50,
+   "spd": 35,
+   "spe": 35
+  },
+  "abilities": [
+   "Hyper Cutter",
+   "Shell Armor"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Crawdaunt"
+  ]
+ },
+ {
+  "h": 130,
+  "n": 342,
+  "name": "Crawdaunt",
+  "slug": "crawdaunt",
+  "id": "crawdaunt",
+  "types": [
+   "Water",
+   "Dark"
+  ],
+  "stats": {
+   "hp": 63,
+   "atk": 120,
+   "def": 85,
+   "spa": 90,
+   "spd": 55,
+   "spe": 55
+  },
+  "abilities": [
+   "Hyper Cutter",
+   "Shell Armor"
+  ],
+  "prevo": "Corphish",
+  "evoType": null,
+  "evoLevel": 30,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 131,
+  "n": 343,
+  "name": "Baltoy",
+  "slug": "baltoy",
+  "id": "baltoy",
+  "types": [
+   "Ground",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 40,
+   "def": 55,
+   "spa": 40,
+   "spd": 70,
+   "spe": 55
+  },
+  "abilities": [
+   "Levitate"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Claydol"
+  ]
+ },
+ {
+  "h": 132,
+  "n": 344,
+  "name": "Claydol",
+  "slug": "claydol",
+  "id": "claydol",
+  "types": [
+   "Ground",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 70,
+   "def": 105,
+   "spa": 70,
+   "spd": 120,
+   "spe": 75
+  },
+  "abilities": [
+   "Levitate"
+  ],
+  "prevo": "Baltoy",
+  "evoType": null,
+  "evoLevel": 36,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 133,
+  "n": 345,
+  "name": "Lileep",
+  "slug": "lileep",
+  "id": "lileep",
+  "types": [
+   "Rock",
+   "Grass"
+  ],
+  "stats": {
+   "hp": 66,
+   "atk": 41,
+   "def": 77,
+   "spa": 61,
+   "spd": 87,
+   "spe": 23
+  },
+  "abilities": [
+   "Suction Cups"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Cradily"
+  ]
+ },
+ {
+  "h": 134,
+  "n": 346,
+  "name": "Cradily",
+  "slug": "cradily",
+  "id": "cradily",
+  "types": [
+   "Rock",
+   "Grass"
+  ],
+  "stats": {
+   "hp": 86,
+   "atk": 81,
+   "def": 97,
+   "spa": 81,
+   "spd": 107,
+   "spe": 43
+  },
+  "abilities": [
+   "Suction Cups"
+  ],
+  "prevo": "Lileep",
+  "evoType": null,
+  "evoLevel": 40,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 135,
+  "n": 347,
+  "name": "Anorith",
+  "slug": "anorith",
+  "id": "anorith",
+  "types": [
+   "Rock",
+   "Bug"
+  ],
+  "stats": {
+   "hp": 45,
+   "atk": 95,
+   "def": 50,
+   "spa": 40,
+   "spd": 50,
+   "spe": 75
+  },
+  "abilities": [
+   "Battle Armor"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Armaldo"
+  ]
+ },
+ {
+  "h": 136,
+  "n": 348,
+  "name": "Armaldo",
+  "slug": "armaldo",
+  "id": "armaldo",
+  "types": [
+   "Rock",
+   "Bug"
+  ],
+  "stats": {
+   "hp": 75,
+   "atk": 125,
+   "def": 100,
+   "spa": 70,
+   "spd": 80,
+   "spe": 45
+  },
+  "abilities": [
+   "Battle Armor"
+  ],
+  "prevo": "Anorith",
+  "evoType": null,
+  "evoLevel": 40,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 137,
+  "n": 174,
+  "name": "Igglybuff",
+  "slug": "igglybuff",
+  "id": "igglybuff",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 90,
+   "atk": 30,
+   "def": 15,
+   "spa": 40,
+   "spd": 20,
+   "spe": 15
+  },
+  "abilities": [
+   "Cute Charm"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Jigglypuff"
+  ]
+ },
+ {
+  "h": 138,
+  "n": 39,
+  "name": "Jigglypuff",
+  "slug": "jigglypuff",
+  "id": "jigglypuff",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 115,
+   "atk": 45,
+   "def": 20,
+   "spa": 45,
+   "spd": 25,
+   "spe": 20
+  },
+  "abilities": [
+   "Cute Charm"
+  ],
+  "prevo": "Igglybuff",
+  "evoType": "levelFriendship",
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Wigglytuff"
+  ]
+ },
+ {
+  "h": 139,
+  "n": 40,
+  "name": "Wigglytuff",
+  "slug": "wigglytuff",
+  "id": "wigglytuff",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 140,
+   "atk": 70,
+   "def": 45,
+   "spa": 75,
+   "spd": 50,
+   "spe": 45
+  },
+  "abilities": [
+   "Cute Charm"
+  ],
+  "prevo": "Jigglypuff",
+  "evoType": "useItem",
+  "evoLevel": null,
+  "evoItem": "Moon Stone",
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 140,
+  "n": 349,
+  "name": "Feebas",
+  "slug": "feebas",
+  "id": "feebas",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 20,
+   "atk": 15,
+   "def": 20,
+   "spa": 10,
+   "spd": 55,
+   "spe": 80
+  },
+  "abilities": [
+   "Swift Swim"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Milotic"
+  ]
+ },
+ {
+  "h": 141,
+  "n": 350,
+  "name": "Milotic",
+  "slug": "milotic",
+  "id": "milotic",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 95,
+   "atk": 60,
+   "def": 79,
+   "spa": 100,
+   "spd": 125,
+   "spe": 81
+  },
+  "abilities": [
+   "Marvel Scale"
+  ],
+  "prevo": "Feebas",
+  "evoType": "levelExtra",
+  "evoLevel": null,
+  "evoItem": "Prism Scale",
+  "evoCondition": "with high Beauty",
+  "evos": []
+ },
+ {
+  "h": 142,
+  "n": 351,
+  "name": "Castform",
+  "slug": "castform",
+  "id": "castform",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 70,
+   "def": 70,
+   "spa": 70,
+   "spd": 70,
+   "spe": 70
+  },
+  "abilities": [
+   "Forecast"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 143,
+  "n": 120,
+  "name": "Staryu",
+  "slug": "staryu",
+  "id": "staryu",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 30,
+   "atk": 45,
+   "def": 55,
+   "spa": 70,
+   "spd": 55,
+   "spe": 85
+  },
+  "abilities": [
+   "Illuminate",
+   "Natural Cure"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Starmie"
+  ]
+ },
+ {
+  "h": 144,
+  "n": 121,
+  "name": "Starmie",
+  "slug": "starmie",
+  "id": "starmie",
+  "types": [
+   "Water",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 75,
+   "def": 85,
+   "spa": 100,
+   "spd": 85,
+   "spe": 115
+  },
+  "abilities": [
+   "Illuminate",
+   "Natural Cure"
+  ],
+  "prevo": "Staryu",
+  "evoType": "useItem",
+  "evoLevel": null,
+  "evoItem": "Water Stone",
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 145,
+  "n": 352,
+  "name": "Kecleon",
+  "slug": "kecleon",
+  "id": "kecleon",
+  "types": [
+   "Normal"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 90,
+   "def": 70,
+   "spa": 60,
+   "spd": 120,
+   "spe": 40
+  },
+  "abilities": [
+   "Color Change"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 146,
+  "n": 353,
+  "name": "Shuppet",
+  "slug": "shuppet",
+  "id": "shuppet",
+  "types": [
+   "Ghost"
+  ],
+  "stats": {
+   "hp": 44,
+   "atk": 75,
+   "def": 35,
+   "spa": 63,
+   "spd": 33,
+   "spe": 45
+  },
+  "abilities": [
+   "Insomnia",
+   "Frisk"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Banette"
+  ]
+ },
+ {
+  "h": 147,
+  "n": 354,
+  "name": "Banette",
+  "slug": "banette",
+  "id": "banette",
+  "types": [
+   "Ghost"
+  ],
+  "stats": {
+   "hp": 64,
+   "atk": 115,
+   "def": 65,
+   "spa": 83,
+   "spd": 63,
+   "spe": 65
+  },
+  "abilities": [
+   "Insomnia",
+   "Frisk"
+  ],
+  "prevo": "Shuppet",
+  "evoType": null,
+  "evoLevel": 37,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 148,
+  "n": 355,
+  "name": "Duskull",
+  "slug": "duskull",
+  "id": "duskull",
+  "types": [
+   "Ghost"
+  ],
+  "stats": {
+   "hp": 20,
+   "atk": 40,
+   "def": 90,
+   "spa": 30,
+   "spd": 90,
+   "spe": 25
+  },
+  "abilities": [
+   "Levitate"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Dusclops"
+  ]
+ },
+ {
+  "h": 149,
+  "n": 356,
+  "name": "Dusclops",
+  "slug": "dusclops",
+  "id": "dusclops",
+  "types": [
+   "Ghost"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 70,
+   "def": 130,
+   "spa": 60,
+   "spd": 130,
+   "spe": 25
+  },
+  "abilities": [
+   "Pressure"
+  ],
+  "prevo": "Duskull",
+  "evoType": null,
+  "evoLevel": 37,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Dusknoir"
+  ]
+ },
+ {
+  "h": 150,
+  "n": 357,
+  "name": "Tropius",
+  "slug": "tropius",
+  "id": "tropius",
+  "types": [
+   "Grass",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 99,
+   "atk": 68,
+   "def": 83,
+   "spa": 72,
+   "spd": 87,
+   "spe": 51
+  },
+  "abilities": [
+   "Chlorophyll",
+   "Solar Power"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 151,
+  "n": 358,
+  "name": "Chimecho",
+  "slug": "chimecho",
+  "id": "chimecho",
+  "types": [
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 65,
+   "atk": 50,
+   "def": 70,
+   "spa": 95,
+   "spd": 80,
+   "spe": 65
+  },
+  "abilities": [
+   "Levitate"
+  ],
+  "prevo": "Chingling",
+  "evoType": "levelFriendship",
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": "at night",
+  "evos": []
+ },
+ {
+  "h": 152,
+  "n": 359,
+  "name": "Absol",
+  "slug": "absol",
+  "id": "absol",
+  "types": [
+   "Dark"
+  ],
+  "stats": {
+   "hp": 65,
+   "atk": 130,
+   "def": 60,
+   "spa": 75,
+   "spd": 60,
+   "spe": 75
+  },
+  "abilities": [
+   "Pressure",
+   "Super Luck"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 153,
+  "n": 37,
+  "name": "Vulpix",
+  "slug": "vulpix",
+  "id": "vulpix",
+  "types": [
+   "Fire"
+  ],
+  "stats": {
+   "hp": 38,
+   "atk": 41,
+   "def": 40,
+   "spa": 50,
+   "spd": 65,
+   "spe": 65
+  },
+  "abilities": [
+   "Flash Fire"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Ninetales"
+  ]
+ },
+ {
+  "h": 154,
+  "n": 38,
+  "name": "Ninetales",
+  "slug": "ninetales",
+  "id": "ninetales",
+  "types": [
+   "Fire"
+  ],
+  "stats": {
+   "hp": 73,
+   "atk": 76,
+   "def": 75,
+   "spa": 81,
+   "spd": 100,
+   "spe": 100
+  },
+  "abilities": [
+   "Flash Fire"
+  ],
+  "prevo": "Vulpix",
+  "evoType": "useItem",
+  "evoLevel": null,
+  "evoItem": "Fire Stone",
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 155,
+  "n": 172,
+  "name": "Pichu",
+  "slug": "pichu",
+  "id": "pichu",
+  "types": [
+   "Electric"
+  ],
+  "stats": {
+   "hp": 20,
+   "atk": 40,
+   "def": 15,
+   "spa": 35,
+   "spd": 35,
+   "spe": 60
+  },
+  "abilities": [
+   "Static"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Pikachu"
+  ]
+ },
+ {
+  "h": 156,
+  "n": 25,
+  "name": "Pikachu",
+  "slug": "pikachu",
+  "id": "pikachu",
+  "types": [
+   "Electric"
+  ],
+  "stats": {
+   "hp": 35,
+   "atk": 55,
+   "def": 30,
+   "spa": 50,
+   "spd": 40,
+   "spe": 90
+  },
+  "abilities": [
+   "Static"
+  ],
+  "prevo": "Pichu",
+  "evoType": "levelFriendship",
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Raichu",
+   "Raichu-Alola"
+  ]
+ },
+ {
+  "h": 157,
+  "n": 26,
+  "name": "Raichu",
+  "slug": "raichu",
+  "id": "raichu",
+  "types": [
+   "Electric"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 90,
+   "def": 55,
+   "spa": 90,
+   "spd": 80,
+   "spe": 100
+  },
+  "abilities": [
+   "Static"
+  ],
+  "prevo": "Pikachu",
+  "evoType": "useItem",
+  "evoLevel": null,
+  "evoItem": "Thunder Stone",
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 158,
+  "n": 54,
+  "name": "Psyduck",
+  "slug": "psyduck",
+  "id": "psyduck",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 52,
+   "def": 48,
+   "spa": 65,
+   "spd": 50,
+   "spe": 55
+  },
+  "abilities": [
+   "Damp",
+   "Cloud Nine"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Golduck"
+  ]
+ },
+ {
+  "h": 159,
+  "n": 55,
+  "name": "Golduck",
+  "slug": "golduck",
+  "id": "golduck",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 82,
+   "def": 78,
+   "spa": 95,
+   "spd": 80,
+   "spe": 85
+  },
+  "abilities": [
+   "Damp",
+   "Cloud Nine"
+  ],
+  "prevo": "Psyduck",
+  "evoType": null,
+  "evoLevel": 33,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 160,
+  "n": 360,
+  "name": "Wynaut",
+  "slug": "wynaut",
+  "id": "wynaut",
+  "types": [
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 95,
+   "atk": 23,
+   "def": 48,
+   "spa": 23,
+   "spd": 48,
+   "spe": 23
+  },
+  "abilities": [
+   "Shadow Tag"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Wobbuffet"
+  ]
+ },
+ {
+  "h": 161,
+  "n": 202,
+  "name": "Wobbuffet",
+  "slug": "wobbuffet",
+  "id": "wobbuffet",
+  "types": [
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 190,
+   "atk": 33,
+   "def": 58,
+   "spa": 33,
+   "spd": 58,
+   "spe": 33
+  },
+  "abilities": [
+   "Shadow Tag"
+  ],
+  "prevo": "Wynaut",
+  "evoType": null,
+  "evoLevel": 15,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 162,
+  "n": 177,
+  "name": "Natu",
+  "slug": "natu",
+  "id": "natu",
+  "types": [
+   "Psychic",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 50,
+   "def": 45,
+   "spa": 70,
+   "spd": 45,
+   "spe": 70
+  },
+  "abilities": [
+   "Synchronize",
+   "Early Bird"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Xatu"
+  ]
+ },
+ {
+  "h": 163,
+  "n": 178,
+  "name": "Xatu",
+  "slug": "xatu",
+  "id": "xatu",
+  "types": [
+   "Psychic",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 65,
+   "atk": 75,
+   "def": 70,
+   "spa": 95,
+   "spd": 70,
+   "spe": 95
+  },
+  "abilities": [
+   "Synchronize",
+   "Early Bird"
+  ],
+  "prevo": "Natu",
+  "evoType": null,
+  "evoLevel": 25,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 164,
+  "n": 203,
+  "name": "Girafarig",
+  "slug": "girafarig",
+  "id": "girafarig",
+  "types": [
+   "Normal",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 80,
+   "def": 65,
+   "spa": 90,
+   "spd": 65,
+   "spe": 85
+  },
+  "abilities": [
+   "Inner Focus",
+   "Early Bird"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Farigiraf"
+  ]
+ },
+ {
+  "h": 165,
+  "n": 231,
+  "name": "Phanpy",
+  "slug": "phanpy",
+  "id": "phanpy",
+  "types": [
+   "Ground"
+  ],
+  "stats": {
+   "hp": 90,
+   "atk": 60,
+   "def": 60,
+   "spa": 40,
+   "spd": 40,
+   "spe": 40
+  },
+  "abilities": [
+   "Pickup"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Donphan"
+  ]
+ },
+ {
+  "h": 166,
+  "n": 232,
+  "name": "Donphan",
+  "slug": "donphan",
+  "id": "donphan",
+  "types": [
+   "Ground"
+  ],
+  "stats": {
+   "hp": 90,
+   "atk": 120,
+   "def": 120,
+   "spa": 60,
+   "spd": 60,
+   "spe": 50
+  },
+  "abilities": [
+   "Sturdy"
+  ],
+  "prevo": "Phanpy",
+  "evoType": null,
+  "evoLevel": 25,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 167,
+  "n": 127,
+  "name": "Pinsir",
+  "slug": "pinsir",
+  "id": "pinsir",
+  "types": [
+   "Bug"
+  ],
+  "stats": {
+   "hp": 65,
+   "atk": 125,
+   "def": 100,
+   "spa": 55,
+   "spd": 70,
+   "spe": 85
+  },
+  "abilities": [
+   "Hyper Cutter",
+   "Mold Breaker"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 168,
+  "n": 214,
+  "name": "Heracross",
+  "slug": "heracross",
+  "id": "heracross",
+  "types": [
+   "Bug",
+   "Fighting"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 125,
+   "def": 75,
+   "spa": 40,
+   "spd": 95,
+   "spe": 85
+  },
+  "abilities": [
+   "Swarm",
+   "Guts"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 169,
+  "n": 111,
+  "name": "Rhyhorn",
+  "slug": "rhyhorn",
+  "id": "rhyhorn",
+  "types": [
+   "Ground",
+   "Rock"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 85,
+   "def": 95,
+   "spa": 30,
+   "spd": 30,
+   "spe": 25
+  },
+  "abilities": [
+   "Lightning Rod",
+   "Rock Head"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Rhydon"
+  ]
+ },
+ {
+  "h": 170,
+  "n": 112,
+  "name": "Rhydon",
+  "slug": "rhydon",
+  "id": "rhydon",
+  "types": [
+   "Ground",
+   "Rock"
+  ],
+  "stats": {
+   "hp": 105,
+   "atk": 130,
+   "def": 120,
+   "spa": 45,
+   "spd": 45,
+   "spe": 40
+  },
+  "abilities": [
+   "Lightning Rod",
+   "Rock Head"
+  ],
+  "prevo": "Rhyhorn",
+  "evoType": null,
+  "evoLevel": 42,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Rhyperior"
+  ]
+ },
+ {
+  "h": 171,
+  "n": 361,
+  "name": "Snorunt",
+  "slug": "snorunt",
+  "id": "snorunt",
+  "types": [
+   "Ice"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 50,
+   "def": 50,
+   "spa": 50,
+   "spd": 50,
+   "spe": 50
+  },
+  "abilities": [
+   "Inner Focus",
+   "Ice Body"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Glalie",
+   "Froslass"
+  ]
+ },
+ {
+  "h": 172,
+  "n": 362,
+  "name": "Glalie",
+  "slug": "glalie",
+  "id": "glalie",
+  "types": [
+   "Ice"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 80,
+   "def": 80,
+   "spa": 80,
+   "spd": 80,
+   "spe": 80
+  },
+  "abilities": [
+   "Inner Focus",
+   "Ice Body"
+  ],
+  "prevo": "Snorunt",
+  "evoType": null,
+  "evoLevel": 42,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 173,
+  "n": 363,
+  "name": "Spheal",
+  "slug": "spheal",
+  "id": "spheal",
+  "types": [
+   "Ice",
+   "Water"
+  ],
+  "stats": {
+   "hp": 70,
+   "atk": 40,
+   "def": 50,
+   "spa": 55,
+   "spd": 50,
+   "spe": 25
+  },
+  "abilities": [
+   "Thick Fat",
+   "Ice Body"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Sealeo"
+  ]
+ },
+ {
+  "h": 174,
+  "n": 364,
+  "name": "Sealeo",
+  "slug": "sealeo",
+  "id": "sealeo",
+  "types": [
+   "Ice",
+   "Water"
+  ],
+  "stats": {
+   "hp": 90,
+   "atk": 60,
+   "def": 70,
+   "spa": 75,
+   "spd": 70,
+   "spe": 45
+  },
+  "abilities": [
+   "Thick Fat",
+   "Ice Body"
+  ],
+  "prevo": "Spheal",
+  "evoType": null,
+  "evoLevel": 32,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Walrein"
+  ]
+ },
+ {
+  "h": 175,
+  "n": 365,
+  "name": "Walrein",
+  "slug": "walrein",
+  "id": "walrein",
+  "types": [
+   "Ice",
+   "Water"
+  ],
+  "stats": {
+   "hp": 110,
+   "atk": 80,
+   "def": 90,
+   "spa": 95,
+   "spd": 90,
+   "spe": 65
+  },
+  "abilities": [
+   "Thick Fat",
+   "Ice Body"
+  ],
+  "prevo": "Sealeo",
+  "evoType": null,
+  "evoLevel": 44,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 176,
+  "n": 366,
+  "name": "Clamperl",
+  "slug": "clamperl",
+  "id": "clamperl",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 35,
+   "atk": 64,
+   "def": 85,
+   "spa": 74,
+   "spd": 55,
+   "spe": 32
+  },
+  "abilities": [
+   "Shell Armor"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Huntail",
+   "Gorebyss"
+  ]
+ },
+ {
+  "h": 177,
+  "n": 367,
+  "name": "Huntail",
+  "slug": "huntail",
+  "id": "huntail",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 55,
+   "atk": 104,
+   "def": 105,
+   "spa": 94,
+   "spd": 75,
+   "spe": 52
+  },
+  "abilities": [
+   "Swift Swim"
+  ],
+  "prevo": "Clamperl",
+  "evoType": "trade",
+  "evoLevel": null,
+  "evoItem": "Deep Sea Tooth",
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 178,
+  "n": 368,
+  "name": "Gorebyss",
+  "slug": "gorebyss",
+  "id": "gorebyss",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 55,
+   "atk": 84,
+   "def": 105,
+   "spa": 114,
+   "spd": 75,
+   "spe": 52
+  },
+  "abilities": [
+   "Swift Swim"
+  ],
+  "prevo": "Clamperl",
+  "evoType": "trade",
+  "evoLevel": null,
+  "evoItem": "Deep Sea Scale",
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 179,
+  "n": 369,
+  "name": "Relicanth",
+  "slug": "relicanth",
+  "id": "relicanth",
+  "types": [
+   "Water",
+   "Rock"
+  ],
+  "stats": {
+   "hp": 100,
+   "atk": 90,
+   "def": 130,
+   "spa": 45,
+   "spd": 65,
+   "spe": 55
+  },
+  "abilities": [
+   "Swift Swim",
+   "Rock Head"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 180,
+  "n": 222,
+  "name": "Corsola",
+  "slug": "corsola",
+  "id": "corsola",
+  "types": [
+   "Water",
+   "Rock"
+  ],
+  "stats": {
+   "hp": 55,
+   "atk": 55,
+   "def": 85,
+   "spa": 65,
+   "spd": 85,
+   "spe": 35
+  },
+  "abilities": [
+   "Hustle",
+   "Natural Cure"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 181,
+  "n": 170,
+  "name": "Chinchou",
+  "slug": "chinchou",
+  "id": "chinchou",
+  "types": [
+   "Water",
+   "Electric"
+  ],
+  "stats": {
+   "hp": 75,
+   "atk": 38,
+   "def": 38,
+   "spa": 56,
+   "spd": 56,
+   "spe": 67
+  },
+  "abilities": [
+   "Volt Absorb",
+   "Illuminate"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Lanturn"
+  ]
+ },
+ {
+  "h": 182,
+  "n": 171,
+  "name": "Lanturn",
+  "slug": "lanturn",
+  "id": "lanturn",
+  "types": [
+   "Water",
+   "Electric"
+  ],
+  "stats": {
+   "hp": 125,
+   "atk": 58,
+   "def": 58,
+   "spa": 76,
+   "spd": 76,
+   "spe": 67
+  },
+  "abilities": [
+   "Volt Absorb",
+   "Illuminate"
+  ],
+  "prevo": "Chinchou",
+  "evoType": null,
+  "evoLevel": 27,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 183,
+  "n": 370,
+  "name": "Luvdisc",
+  "slug": "luvdisc",
+  "id": "luvdisc",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 43,
+   "atk": 30,
+   "def": 55,
+   "spa": 40,
+   "spd": 65,
+   "spe": 97
+  },
+  "abilities": [
+   "Swift Swim"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 184,
+  "n": 116,
+  "name": "Horsea",
+  "slug": "horsea",
+  "id": "horsea",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 30,
+   "atk": 40,
+   "def": 70,
+   "spa": 70,
+   "spd": 25,
+   "spe": 60
+  },
+  "abilities": [
+   "Swift Swim",
+   "Sniper"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Seadra"
+  ]
+ },
+ {
+  "h": 185,
+  "n": 117,
+  "name": "Seadra",
+  "slug": "seadra",
+  "id": "seadra",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 55,
+   "atk": 65,
+   "def": 95,
+   "spa": 95,
+   "spd": 45,
+   "spe": 85
+  },
+  "abilities": [
+   "Poison Point",
+   "Sniper"
+  ],
+  "prevo": "Horsea",
+  "evoType": null,
+  "evoLevel": 32,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Kingdra"
+  ]
+ },
+ {
+  "h": 186,
+  "n": 230,
+  "name": "Kingdra",
+  "slug": "kingdra",
+  "id": "kingdra",
+  "types": [
+   "Water",
+   "Dragon"
+  ],
+  "stats": {
+   "hp": 75,
+   "atk": 95,
+   "def": 95,
+   "spa": 95,
+   "spd": 95,
+   "spe": 85
+  },
+  "abilities": [
+   "Swift Swim",
+   "Sniper"
+  ],
+  "prevo": "Seadra",
+  "evoType": "trade",
+  "evoLevel": null,
+  "evoItem": "Dragon Scale",
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 187,
+  "n": 371,
+  "name": "Bagon",
+  "slug": "bagon",
+  "id": "bagon",
+  "types": [
+   "Dragon"
+  ],
+  "stats": {
+   "hp": 45,
+   "atk": 75,
+   "def": 60,
+   "spa": 40,
+   "spd": 30,
+   "spe": 50
+  },
+  "abilities": [
+   "Rock Head"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Shelgon"
+  ]
+ },
+ {
+  "h": 188,
+  "n": 372,
+  "name": "Shelgon",
+  "slug": "shelgon",
+  "id": "shelgon",
+  "types": [
+   "Dragon"
+  ],
+  "stats": {
+   "hp": 65,
+   "atk": 95,
+   "def": 100,
+   "spa": 60,
+   "spd": 50,
+   "spe": 50
+  },
+  "abilities": [
+   "Rock Head"
+  ],
+  "prevo": "Bagon",
+  "evoType": null,
+  "evoLevel": 30,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Salamence"
+  ]
+ },
+ {
+  "h": 189,
+  "n": 373,
+  "name": "Salamence",
+  "slug": "salamence",
+  "id": "salamence",
+  "types": [
+   "Dragon",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 95,
+   "atk": 135,
+   "def": 80,
+   "spa": 110,
+   "spd": 80,
+   "spe": 100
+  },
+  "abilities": [
+   "Intimidate"
+  ],
+  "prevo": "Shelgon",
+  "evoType": null,
+  "evoLevel": 50,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 190,
+  "n": 374,
+  "name": "Beldum",
+  "slug": "beldum",
+  "id": "beldum",
+  "types": [
+   "Steel",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 40,
+   "atk": 55,
+   "def": 80,
+   "spa": 35,
+   "spd": 60,
+   "spe": 30
+  },
+  "abilities": [
+   "Clear Body"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Metang"
+  ]
+ },
+ {
+  "h": 191,
+  "n": 375,
+  "name": "Metang",
+  "slug": "metang",
+  "id": "metang",
+  "types": [
+   "Steel",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 60,
+   "atk": 75,
+   "def": 100,
+   "spa": 55,
+   "spd": 80,
+   "spe": 50
+  },
+  "abilities": [
+   "Clear Body"
+  ],
+  "prevo": "Beldum",
+  "evoType": null,
+  "evoLevel": 20,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": [
+   "Metagross"
+  ]
+ },
+ {
+  "h": 192,
+  "n": 376,
+  "name": "Metagross",
+  "slug": "metagross",
+  "id": "metagross",
+  "types": [
+   "Steel",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 135,
+   "def": 130,
+   "spa": 95,
+   "spd": 90,
+   "spe": 70
+  },
+  "abilities": [
+   "Clear Body"
+  ],
+  "prevo": "Metang",
+  "evoType": null,
+  "evoLevel": 45,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 193,
+  "n": 377,
+  "name": "Regirock",
+  "slug": "regirock",
+  "id": "regirock",
+  "types": [
+   "Rock"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 100,
+   "def": 200,
+   "spa": 50,
+   "spd": 100,
+   "spe": 50
+  },
+  "abilities": [
+   "Clear Body"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 194,
+  "n": 378,
+  "name": "Regice",
+  "slug": "regice",
+  "id": "regice",
+  "types": [
+   "Ice"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 50,
+   "def": 100,
+   "spa": 100,
+   "spd": 200,
+   "spe": 50
+  },
+  "abilities": [
+   "Clear Body"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 195,
+  "n": 379,
+  "name": "Registeel",
+  "slug": "registeel",
+  "id": "registeel",
+  "types": [
+   "Steel"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 75,
+   "def": 150,
+   "spa": 75,
+   "spd": 150,
+   "spe": 50
+  },
+  "abilities": [
+   "Clear Body"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 196,
+  "n": 380,
+  "name": "Latias",
+  "slug": "latias",
+  "id": "latias",
+  "types": [
+   "Dragon",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 80,
+   "def": 90,
+   "spa": 110,
+   "spd": 130,
+   "spe": 110
+  },
+  "abilities": [
+   "Levitate"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 197,
+  "n": 381,
+  "name": "Latios",
+  "slug": "latios",
+  "id": "latios",
+  "types": [
+   "Dragon",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 80,
+   "atk": 90,
+   "def": 80,
+   "spa": 130,
+   "spd": 110,
+   "spe": 110
+  },
+  "abilities": [
+   "Levitate"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 198,
+  "n": 382,
+  "name": "Kyogre",
+  "slug": "kyogre",
+  "id": "kyogre",
+  "types": [
+   "Water"
+  ],
+  "stats": {
+   "hp": 100,
+   "atk": 100,
+   "def": 90,
+   "spa": 150,
+   "spd": 140,
+   "spe": 90
+  },
+  "abilities": [
+   "Drizzle"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 199,
+  "n": 383,
+  "name": "Groudon",
+  "slug": "groudon",
+  "id": "groudon",
+  "types": [
+   "Ground"
+  ],
+  "stats": {
+   "hp": 100,
+   "atk": 150,
+   "def": 140,
+   "spa": 100,
+   "spd": 90,
+   "spe": 90
+  },
+  "abilities": [
+   "Drought"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 200,
+  "n": 384,
+  "name": "Rayquaza",
+  "slug": "rayquaza",
+  "id": "rayquaza",
+  "types": [
+   "Dragon",
+   "Flying"
+  ],
+  "stats": {
+   "hp": 105,
+   "atk": 150,
+   "def": 90,
+   "spa": 150,
+   "spd": 90,
+   "spe": 95
+  },
+  "abilities": [
+   "Air Lock"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 201,
+  "n": 385,
+  "name": "Jirachi",
+  "slug": "jirachi",
+  "id": "jirachi",
+  "types": [
+   "Steel",
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 100,
+   "atk": 100,
+   "def": 100,
+   "spa": 100,
+   "spd": 100,
+   "spe": 100
+  },
+  "abilities": [
+   "Serene Grace"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ },
+ {
+  "h": 202,
+  "n": 386,
+  "name": "Deoxys",
+  "slug": "deoxys",
+  "id": "deoxys",
+  "types": [
+   "Psychic"
+  ],
+  "stats": {
+   "hp": 50,
+   "atk": 150,
+   "def": 50,
+   "spa": 150,
+   "spd": 50,
+   "spe": 150
+  },
+  "abilities": [
+   "Pressure"
+  ],
+  "prevo": null,
+  "evoType": null,
+  "evoLevel": null,
+  "evoItem": null,
+  "evoCondition": null,
+  "evos": []
+ }
+]

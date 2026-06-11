@@ -1,0 +1,13 @@
+{
+  "name": "hoenn-diary",
+  "private": true,
+  "license": "MIT",
+  "description": "A vanilla Pokémon Ruby companion app: illustrated Hoenn map, checkpoint walkthrough, Ruby-only dex tracker. One HTML file.",
+  "scripts": {
+    "build": "python3 build.py",
+    "data": "node data/species.mjs > data/species.json && python3 data/encounters.py"
+  },
+  "devDependencies": {
+    "@pkmn/dex": "^0.10.10"
+  }
+}
