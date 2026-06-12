@@ -4,7 +4,7 @@
   "license": "MIT",
   "description": "A vanilla Pokémon Ruby companion app: illustrated Hoenn map, checkpoint walkthrough, Ruby-only dex tracker. One HTML file.",
   "scripts": {
-    "build": "python3 build.py",
+    "build": "python3 build.py && rm -rf public && mkdir -p public && cp index.html manifest.json apple-touch-icon.png icon-512.png public/",
     "data": "node data/species.mjs > data/species.json && python3 data/encounters.py"
   },
   "devDependencies": {
